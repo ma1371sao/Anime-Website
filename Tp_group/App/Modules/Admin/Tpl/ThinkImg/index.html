@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>图片裁剪页</title>
+	<style type="text/css">
+	.crop-info{
+		display: inline-block;
+		width: 400px;
+	}
+	.half{
+		display: inline-block;
+		float:left;
+		width: 50%
+	}
+	</style>
+</head>
+<body>
+	<foreach name="pic" item="p">
+		<div class="crop-info">
+		<div class="half">
+			{$p.name}
+			<div><a href="{:U(GROUP_NAME.'/ThinkImg/crop',array('id'=>$p['id']))}">裁剪</a></div>
+			<div>目前尺寸:W={$p.w} X H={$p.h}</div>
+		</div>
+		<div class="half"><img src="{$p.pic}" width="200px" height="100px"/></div>
+		</div>
+	</foreach>
+</body>
+</html>

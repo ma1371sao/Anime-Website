@@ -1,0 +1,30 @@
+/*初始化的css*/
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	text-decoration: none;
+}
+/*对于所有元素的设置*/
+/*自动清除浮动*/
+.clearfix{
+	zoom: 1;/*为了兼容ie6 7*/
+}
+.clearfix:after{
+	content: '020';/*看不见的空格*/
+	display: block;
+	height: 0px;
+	clear: both;/*清楚浮动*/
+	visibility: hidden;
+}
+.container{
+	width:1150px;
+	margin: 95px auto 0px;
+	min-height: 500px;
+}
+.l{
+	float:left;
+}
+.r{
+	float:right;
+}

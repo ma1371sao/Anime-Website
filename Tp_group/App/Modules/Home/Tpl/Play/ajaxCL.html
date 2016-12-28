@@ -1,0 +1,13 @@
+<!-- comment主体 -->
+<foreach name="comment" item="com">
+	<div class="pin-body clearfix">
+    
+   	<img src="{$com.pic}" class="user-img l"/>
+   	<div class="pin-side r">
+   	<div class="pin-user"><span>{$com.uname}</span><span>评论时间:{$com.time|date='Y-m-d H:i:s',###}</span></div>
+    <p class="pin-con">评论:{$com.content}</p>
+	</div>
+</div>
+</foreach>
+<!-- 分页page -->
+<div id="page">{$page}</div>

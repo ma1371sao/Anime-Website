@@ -1,0 +1,139 @@
+﻿		<!-- 第二部分开始 -->
+		<div class="clearfix">
+		<!-- 分配的animate目录 -->
+		
+		<foreach name="AT" item="a" key="k">
+		<div class="area-fen clearfix">
+		 <div class="warpper l">
+		 	<div class="tit">
+				<h3 class="">{$a.name}</h3>
+				<span class="sub-tit-l">Recommend</span>
+				<!-- 随机数局 -->
+				<foreach name="a.more" item="mo">
+					<a href="{:U('/s/'.$mo['id'])}"><span class="sub-tit">{$mo.name}</span></a>
+				</foreach>
+				<!-- 更多 -->
+				<a href="{:U('/av/'.$a['id'])}" class="more"><span class="green">更多>></span></a>
+				</div>
+			<ul class="con clearfix">
+
+				<if condition="$k eq 0">
+				<volist name="a.animate" id="an" offset="0" length='5'>
+					<li class="l ">
+					<a href="{:U('/s/'.$an['id'])}" class="load">
+						<img class="warpper-img ss150" src="{$an.pic|to150X100=###}"/>
+					<span class="infoBg">
+					<php>foreach($an['tag'] as $ke => $v){
+						echo "<span class='info_tag'>".$v['name']."</span>";
+					}</php>
+					</span>
+					</a>
+					<p class=""><a href="{:U('/s/'.$an['id'])}" class="p-title">{$an.name}</a></p>
+					<p class="p-info"><i class="fa fa-tags"></i>{$an.content|msubstr=###,0,8,'utf-8',false}</p>
+					</li>
+				</volist>
+
+				<elseif condition="$k eq 2"/>
+				<volist name="a.animate" id="an" offset="0" length="4">
+					<li class="l first">
+					<a href="{:U('/s/'.$an['id'])}" class="load">
+						<img class="warpper-img ss200" src="{$an.pic|to200X250=###}"/>
+					<span class="infoBg">
+					<php>foreach($an['tag'] as $ke => $v){
+						echo "<span class='info_tag'>".$v['name']."</span>";
+					}</php>
+					</span>
+					</a>
+					<p class=""><a href="{:U('/s/'.$an['id'])}" class="p-title">{$an.name}</a></p>
+					<p class="p-info"><i class="fa fa-tags"></i>{$an.content|msubstr=###,0,8,'utf-8',false}</p>
+					</li>
+				</volist>
+
+				<elseif condition="$k eq 3"/>
+				<volist name="a.animate" id="an" offset="0" length='5'>
+					<li class="l ">
+					<a href="{:U('/s/'.$an['id'])}" class="load">
+						<img class="warpper-img ss150" src="{$an.pic|to150X100=###}"/>
+					<span class="infoBg">
+					<php>foreach($an['tag'] as $ke => $v){
+						echo "<span class='info_tag'>".$v['name']."</span>";
+					}</php>
+					</span>
+					</a>
+					<p class=""><a href="{:U('/s/'.$an['id'])}" class="p-title">{$an.name}</a></p>
+					<p class="p-info"><i class="fa fa-tags"></i>{$an.content|msubstr=###,0,8,'utf-8',false}</p>
+					</li>
+				</volist>
+
+				
+
+				<else/>
+				<!-- 具体每一项 -->
+				<foreach name="a.animate" item="an">
+					<li class="l <if condition='$key eq 0'>first</if>">
+					<a href="{:U('/s/'.$an['id'])}" class="load">
+						<img class="warpper-img 
+						<if condition='$key eq 0'>ss200<else/>ss150</if>" src="
+						<if condition='$key eq 0'>{$an.pic|to200X250=###}<else/>
+							{$an.pic|to150X100=###}</if>"/>
+					<span class="infoBg">
+					<php>foreach($an['tag'] as $ke => $v){
+						echo "<span class='info_tag'>".$v['name']."</span>";
+					}</php>
+					</span>
+					</a>
+					<p class=""><a href="{:U('/s/'.$an['id'])}" class="p-title">{$an.name}</a></p>
+					<p class="p-info"><i class="fa fa-tags"></i>{$an.content|msubstr=###,0,8,'utf-8',false}</p>
+					</li>
+				</foreach>
+				</if>
+			</ul>
+		</div>
+
+		<if condition="$k eq 0">
+			<div class="side2 r">
+				<img src="__ROOT__/Uploads/ad/l-ad1.jpg" class="advertise"/>
+			</div>
+			<elseif condition="$k eq 2"/>
+				<div class="side r ">
+		<div class="side-head green-back"><h3>讨论区</h3>
+			</div>
+		<ul class="rank-side">
+			<li><i class="number o1">1</i><a class="side-link">【东京喰种】动画与漫画之间的出入</a></li>
+			<li><i class="number o1">2</i><a class="side-link">2015年一月新番看点</a></li>
+			<li><i class="number o1">3</i><a class="side-link">Fate系列作品</a></li>
+			<li><i class="number">4</i><a class="side-link">【CV】御三家</a></li>
+			<li><i class="number">5</i><a class="side-link">【CV】雨宫天热潮</a></li>
+			<li><i class="number">6</i><a class="side-link">2014年十月最强番</a></li>
+			<li><i class="number">7</i><a class="side-link">【A/Z】第二季剧情如何展开</a></li>
+		</ul>
+		<div class="side-yugao">
+			<img src="__ROOT__/Uploads/ad/ad9.jpg" class="img-yugao"/>
+		</div>
+		</div>
+			<else/>
+		<!-- side 部分-->
+		<div class="side r ">
+		<div class="side-head green-back"><h3>Music</h3>
+		</div>
+		<ul class="rank-side">
+			<li><i class="number o1">1</i><a class="side-link">lovelive！</a></li>
+			<li><i class="number o1">2</i><a class="side-link">FripSide</a></li>
+			<li><i class="number o1">3</i><a class="side-link">Sword Art Online</a></li>
+			<li><i class="number">4</i><a class="side-link">甘城光辉游乐园</a></li>
+			<li><i class="number">5</i><a class="side-link">Fate/stay night-UBW</a></li>
+			<li><i class="number">6</i><a class="side-link">东京喰种</a></li>
+			<li><i class="number">7</i><a class="side-link">加速世界</a></li>
+		</ul>
+		<div class="side-yugao">
+			<img src="__ROOT__/Uploads/ad/ad10.jpg" class="img-yugao"/>
+		</div>
+		</div>
+		</if>
+	</div>
+		<!-- side部分结束 -->
+		</foreach>
+		<!-- animate 结束 -->
+
+		</div>
+		<!-- 第二部分结束 -->

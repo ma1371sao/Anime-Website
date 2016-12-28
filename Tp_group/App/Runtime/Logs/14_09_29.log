@@ -1,0 +1,915 @@
+[ 2014-09-29T14:09:00+08:00 ] 0.0.0.0 /Tp_group/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.042002s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.087005s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.267015s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.267015s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.026002s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.006000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.040003s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-09-29T14:09:08+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011001s ]
+
+[ 2014-09-29T14:09:08+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T14:09:09+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T14:09:17+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T14:09:21+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T14:09:21+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T14:09:24+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T14:09:35+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T14:13:25+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T14:13:32+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008000s ]
+
+[ 2014-09-29T14:31:53+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T14:32:00+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T14:37:07+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T14:37:13+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T14:42:12+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T14:42:20+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T14:42:44+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T14:42:44+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T14:44:00+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T14:44:01+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T14:44:01+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T15:01:55+08:00 ] 0.0.0.0 /Tp_group/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.007000s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T15:02:02+08:00 ] 0.0.0.0 /Tp_group/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.007001s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T15:02:11+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T15:02:11+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T15:02:11+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T15:02:19+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.8908240809105337
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T15:02:22+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T15:02:23+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T15:02:24+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-09-29T18:21:46+08:00 ] 0.0.0.0 /Tp_group/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.106007s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:21:53+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:21:57+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:21:57+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T18:21:57+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:22:08+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.6290056800935417
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:22:09+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.6795273721218109
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:22:10+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.03800058667548001
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:22:11+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.46086540119722486
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:22:12+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.3274112278595567
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:22:13+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.8519094716757536
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:22:14+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.8269689118023962
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:22:14+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.3750379616394639
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:22:15+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.1632325288373977
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:26:15+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-09-29T18:26:15+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:26:17+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.2193432287313044
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:26:17+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.07856677984818816
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:26:19+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.4463635408319533
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:26:45+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.17724103620275855
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:26:46+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.6634989865124226
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:26:59+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:26:59+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:27:00+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:27:00+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:27:01+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.6385703056585044
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:27:09+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:27:09+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T18:27:11+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.9654994434677064
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:27:12+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.4193027673754841
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:27:49+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:27:56+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-09-29T18:28:29+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:28:38+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018001s ]
+
+[ 2014-09-29T18:28:38+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T18:28:45+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:29:33+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:29:33+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:29:34+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-09-29T18:29:34+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:29:47+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:30:13+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T18:30:13+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:30:15+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode/0.5545279511716217
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T18:30:24+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011001s ]
+
+[ 2014-09-29T18:30:54+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:30:54+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T18:32:24+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T18:33:47+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Category/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T18:33:52+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Category/addCate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T18:33:55+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Attribute/addAttr
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T18:33:57+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Attribute/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:34:17+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T18:34:17+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T18:34:17+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T19:03:17+08:00 ] 0.0.0.0 /Tp_group/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.017001s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:03:28+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T19:03:28+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:03:28+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:03:39+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:03:39+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:03:44+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:15:27+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T19:17:44+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:17:46+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:17:53+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:18:20+08:00 ] 0.0.0.0 /Tp_group/index.php/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002001s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T19:18:22+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:18:24+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:18:31+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T19:20:18+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:20+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:20+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:20:20+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:29+08:00 ] 0.0.0.0 /Tp_group/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.007000s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002000s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:34+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:34+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:20:34+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:41+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:41+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:43+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:20:49+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:23:41+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T19:23:47+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:24:13+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:25:37+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:27:55+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:28:02+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/upload?dir=image
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T19:40:51+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:40:53+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T19:40:53+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T19:40:53+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-09-29T22:52:27+08:00 ] 0.0.0.0 /Tp_group/
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `think_news` [ RunTime:0.006000s ]
+SQL: SELECT * FROM `think_news`  [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.082005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.083005s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002000s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002001s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001000s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003000s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T22:52:31+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T22:52:31+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T22:52:31+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012000s ]
+
+[ 2014-09-29T22:52:41+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T22:52:41+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T22:52:43+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T22:58:38+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/handelAddBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:08:04+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T23:08:07+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:08:10+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/role
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T23:08:13+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/node
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:08:15+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/role
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-09-29T23:08:17+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/addUser
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:08:23+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/addRole
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:08:25+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/addNode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:09:40+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-09-29T23:10:04+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/lock/uid/57
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:10:10+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:12:27+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/lock/uid/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:12:28+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:12:30+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/lock/uid/56
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:12:36+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/lock/uid/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:12:51+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/unlock/uid/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:12:52+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:13:01+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:13:04+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/MsgManage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:13:27+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Rbac/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:15:45+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T23:16:03+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/handelAddBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:16:21+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/handelAddBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:16:32+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:16:39+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Blog/handelAddBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:40:56+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-09-29T23:40:57+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-09-29T23:40:57+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-09-29T23:40:57+08:00 ] 0.0.0.0 /Tp_group/index.php/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+

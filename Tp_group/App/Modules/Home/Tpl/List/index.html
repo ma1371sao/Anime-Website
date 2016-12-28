@@ -1,0 +1,19 @@
+<include file="Common:h"/>
+	这是列表
+	<div id="main">
+		<!-- 分配的cate目录 -->
+		<foreach name="blog" item="v">
+		<dl>
+			<dt>{$v.name}</dt>
+			<dd>{$v.title}</dd>
+			<dd>
+				<span>发布于:{$v.time|date="Y年m月d日 H:i:s",###}</span>
+				<span>点击:{$v.click}</span>
+			</dd>
+			<dd>{$v.summary}</dd>
+			<dd><a href="{:U('/'.$v['id'])}" target="_blank">阅读全文</a></dd>
+		</dl>
+		</foreach>
+		<p>{$page}</p>	
+	</div>
+<include file="Common:f"/>

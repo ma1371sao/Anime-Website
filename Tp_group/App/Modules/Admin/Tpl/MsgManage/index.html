@@ -1,0 +1,36 @@
+<html>
+<head>
+	<meta charset="utf8"/>
+	<title>tiezi</title>
+	<!-- css模板替换 -->
+	<css file="__PUBLIC__" />
+	<!-- js模板替班 -->
+	<js file="__PUBLIC__/Js/jquery.js" />
+</head>
+<body>
+	查看帖子
+	<table>
+		<tr>
+			<th>Id</th>
+			<th>content</th>
+			<th>time</th>
+			<th>operator</th>
+		</tr>
+		<foreach name="article" item="v">
+			<tr>
+				<td>{$v.id}</td>
+				<td>{$v.content}</td>
+				<td>{$v.time|date='y-m-d H:i',###}</td>
+				<td>
+					<a href="{:U('Admin/MsgManage/delete',array('id'=>$v['id']))}}">删除</a>
+				</td>
+			</tr>			
+		</foreach>
+		<!-- 分页类 -->
+		<tr>
+			<td colspan="4" align="center">{$page}</td>
+		</tr>
+	</table>
+
+</body>
+</html>

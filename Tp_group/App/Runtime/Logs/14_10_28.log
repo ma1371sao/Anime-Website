@@ -1,0 +1,401 @@
+[ 2014-10-28T19:26:29+08:00 ] 0.0.0.0 /Tp_group/av/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-28T19:27:02+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-28T19:31:39+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:31:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T19:31:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-28T19:31:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T19:31:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:31:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Type/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:31:57+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:34:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-28T19:34:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T19:34:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T19:34:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:41:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:41:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:41:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:44:37+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:45:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:45:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-28T19:45:11+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:48:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:49:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:49:21+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:49:32+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:49:37+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T19:49:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/delTag/id/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T19:49:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:55:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/delTag/id/5
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T19:55:11+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-28T19:59:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T19:59:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:00:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/addTag/pid/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:00:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:00:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:01:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:01:05+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:01:07+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/delTag/id/11
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:01:09+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-10-28T20:01:17+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:01:23+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/delTag/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-28T20:01:26+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:01:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:01:52+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:01:56+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:02:00+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:02:03+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:02:12+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:02:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:02:26+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-28T20:02:32+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:02:37+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:02:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/edit/id/8
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:02:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/editTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:02:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/addTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:02:59+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:03:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:03:10+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:03:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:03:26+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:03:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:03:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:03:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:04:07+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:04:16+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:04:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:04:24+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-28T20:04:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:04:39+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:04:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:04:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:05:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-10-28T20:05:16+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:05:21+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-28T20:05:28+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:05:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/handelTag
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-28T20:05:35+08:00 ] 0.0.0.0 /Tp_group/Admin/Tag/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-28T20:09:31+08:00 ] 0.0.0.0 /Tp_group/av/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-28T20:10:44+08:00 ] 0.0.0.0 /Tp_group/av/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-28T20:13:22+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-28T21:14:37+08:00 ] 0.0.0.0 /Tp_group/
+ERR: XML标签语法错误 : name="$key"value="1,4"
+
+[ 2014-10-28T21:14:52+08:00 ] 0.0.0.0 /Tp_group/
+ERR: XML标签语法错误 : name="key"value="1,4"
+

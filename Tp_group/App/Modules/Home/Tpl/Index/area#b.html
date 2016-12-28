@@ -1,0 +1,31 @@
+<div id="area-b" class="clearfix">
+	<div class="warpper l">
+		<div class="tit">
+		<h3 class="">热播推荐</h3><span class="sub-tit-l">Recommend</span>
+		<!-- 随机数局 -->
+		<foreach name="recommend_more" item="rm">
+			<a href="{:U('/s/'.$rm['id'])}"><span class="sub-tit">{$rm.name}</span></a>
+		</foreach>
+		<!-- 结束 -->
+		<!-- <a href="{:U('/av/'.$rm['id'])}" class="more"><span class="green">更多More</span></a> -->
+		</div>
+	<ul class="con clearfix">
+		
+	<foreach name="recommend" item="r">
+		<li class="l <if condition='$key eq 0'>first</if>">
+		<a href="{:U('/s/'.$r['id'])}" class =""><img class="warpper-img <if condition='$key eq 0'>ss200<else/>ss150</if>" src="{$r.pic}"/></a>
+		<div>
+		<p><a href="{:U('/s/'.$r['id'])}" class="p-title">{$r.name}</a></p>
+		<p class="p-info"><i class="fa fa-tags"></i>{$r.content|msubstr=###,0,9,'utf-8',false}</p>{//字段不对，要再设一个}
+		</div>
+		</li>
+	</foreach>
+	</ul>
+	</div>
+
+	<div class="side r">
+		{:W('New',array('limit' => 9))}
+	</div>
+
+</div>
+<!-- 第er部分结束 -->

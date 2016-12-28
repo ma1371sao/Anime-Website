@@ -1,0 +1,141 @@
+<include file="Common:h"/>
+<include file="Common:G"/><!-- 返回顶部 -->
+
+	<div class="container">
+		<!-- 这是动漫视频列表 -->
+		<style>
+		body{
+			background: url(__PUBLIC__/Image/background.png) center 0px repeat-x;
+		}
+		.detail-collect{
+			display: block;
+			height:30px;
+			font-size: 14px;
+			font-weight: normal;
+			line-height: 30px;
+			padding: 0px 10px;
+			background: #4ea5dd;
+			color: #fff;
+		}
+		.detail-main{
+			width:750px;
+			margin-bottom: 20px;
+			background: #fff;
+		}
+		.detail-tit{
+			font: 600 16px/30px '\5FAE\8F6F\96C5\9ED1';
+			line-height: 30px;
+			padding-left: 5px;
+			height: 30px;
+			color: #fff;
+			background: #666;
+		}
+		.detail-show{
+			display: inline-block;
+		}
+		.detail-img{
+			width: 200px;
+			height:250px;
+			margin: 10px 0px 0px 10px;
+		}
+		.detail-des{
+			width: 500px;
+			padding: 10px;
+		}
+		.detail-head{
+			font: normal 24px/30px "Microsoft YaHei";
+			padding-left: 10px;
+			border-left: 5px solid  #666;
+			display: block;
+			height: 30px;
+			color: #333
+		}
+		.detail-info{
+			font: normal 12px/20px "Microsoft YaHei";
+			padding: 4px 15px;
+			background-color: #fafafa
+		}
+		.detail-inner{
+			line-height:30px;
+			height: 30px; 
+			margin-left: 20px;
+			font: normal 12px/20px "Microsoft YaHei";
+		}
+		.detail-jieshao{
+			font: normal 12px/20px "Microsoft YaHei";
+			color: #888;
+			padding:4px 15px;
+			border-radius: 2px; 
+		}
+		.detail-inner span{
+			line-height: 30px;
+		}
+		.detail-fj{
+			width: 750px;
+		}
+		.detail-s-fj{
+			width: 150px;
+			margin-right: 20px;
+			font: normal 12px/20px 'Microsoft YaHei';
+		}
+		.detail-s-img{
+			width: 150px;
+			height: 100px;
+		}
+		.detail-s-main{
+			padding: 10px;
+
+		}
+		.detail-yellow{
+			background: #FA824F;
+		}
+		.detail-p-yellow{
+			color: #FA824F
+		}
+		</style>
+		<!-- 基本信息开始 -->
+		<div class="detail-main clearfix">
+		
+		<volist name="animate" id="v">
+			<h2 class="detail-tit">动漫>{$v.name}(XX集)<span class="detail-collect r">收藏</span></h2>
+			<div class="detail-show l"><img src="{$v.pic}" class="detail-img"/></div>
+			<div class="detail-des r">
+			<div class="detail-head clearfix"><span class="l">{$v.name}</span><div class="detail-inner r">
+				<span>发布于:{$v.time|date="Y年m月d日 H:i:s",###}</span>
+				<span>点击:{$v.click}</span>
+				<span>回复数:{$v.reply}</span>
+
+			</div></div>
+			<div class="detail-info">访问：30万／ 收藏：776／ 评论：120／最后更新于10月18日(星期六) 15时09分</div>
+			<div class="detail-info">评分：{$v.rate}</div>
+			<div class="detail-info">配音：{$v.vactor}</div>
+			<div class="detail-info">制作公司：{$v.company}</div>
+			<p class="detail-jieshao">{$v.content}更多</p>
+			<span>标签：XXXXXXXXXXXXXXXXXXXXX</span>
+			</div>
+		</volist>
+		
+		</div>
+		<!-- 基本信息结束 -->
+		<div class="clearfix">
+		<!-- 分集列表 -->
+		<div class="detail-fj l">
+		<h2 class="detail-tit detail-yellow">稿件集 剧集介绍</h2>
+		<h6 class="detail-info detail-p-yellow">共26集,更新至11集 更新时间：每周四10:00更新1集</h6>
+		<div class="detail-s-main">
+		<foreach name="diversity" item="d">
+		<div class="detail-s-fj l">
+			<a class="" href="{:U('/v/'.$d['id'])}"><img src="{$d.pic}" class="detail-s-img"/></a>
+			<span>第{$d.order}话</span>
+			<a href="{:U('/v/'.$d['id'])}">{$d.title}</a>
+			<span>{$d.click}</span>
+			<span>时长{$d.time}</span>
+			<span>来源{$d.type}</span>
+		</div>
+		</foreach>
+		</div>
+		</div>
+		<!-- 分集列表结束 -->
+	</div>
+	</div>
+<include file="Common:f"/>

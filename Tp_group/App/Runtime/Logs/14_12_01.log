@@ -1,0 +1,2486 @@
+[ 2014-12-01T09:52:43+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.034002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.034002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T09:53:19+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:53:19+08:00 ] 0.0.0.0 /Tp_group/Home/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T09:53:19+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:53:23+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T09:54:29+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T09:54:54+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T09:55:07+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T09:56:23+08:00 ] 0.0.0.0 /Tp_group/av/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:56:23+08:00 ] 0.0.0.0 /Tp_group/av/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:56:24+08:00 ] 0.0.0.0 /Tp_group/av/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:57:03+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/8
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T09:57:03+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/8
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:57:54+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:57:54+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:01+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:58:02+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:18+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:58:18+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:58:20+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:21+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T09:58:23+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:24+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:28+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:28+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:31+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:31+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:58:34+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T09:58:34+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:42+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T09:58:42+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:59:00+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T09:59:23+08:00 ] 0.0.0.0 /Tp_group/16
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:59:24+08:00 ] 0.0.0.0 /Tp_group/16
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T09:59:24+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T09:59:24+08:00 ] 0.0.0.0 /Tp_group/16
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:02:01+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T10:02:01+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:02:01+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:02:01+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:08:35+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:08:35+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:08:35+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:08:36+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:10:15+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:10:15+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:10:15+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:10:24+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:10:24+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:10:24+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:10:24+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:10:43+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T10:10:43+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:10:43+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:11:54+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:11:55+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:11:55+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:13:01+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:13:01+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:13:01+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:13:01+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:13:38+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:13:38+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:13:38+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:14:17+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:14:18+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:14:18+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:14:31+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:14:31+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:14:32+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:15:20+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:15:20+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:15:20+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:16:58+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T10:16:58+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:16:58+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-12-01T10:18:20+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:18:20+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:18:20+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:19:04+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-12-01T10:19:04+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:19:04+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:20:45+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:20:45+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:20:45+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:21:44+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: XML标签语法错误
+
+[ 2014-12-01T10:21:52+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:21:52+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:21:52+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:22:07+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:22:07+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:22:07+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:22:13+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:22:13+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:22:13+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:22:33+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:22:33+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:22:33+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:23:17+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-12-01T10:23:18+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:23:18+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:23:42+08:00 ] 0.0.0.0 /Tp_group/10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:23:42+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:23:42+08:00 ] 0.0.0.0 /Tp_group/10
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:24:38+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:24:38+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:24:38+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:25:00+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:25:00+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:25:00+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:25:12+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:25:12+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T10:25:12+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-12-01T10:25:38+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:25:38+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-12-01T10:25:38+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+
+[ 2014-12-01T10:26:00+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:26:00+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:26:01+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:26:23+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T10:26:48+08:00 ] 0.0.0.0 /Tp_group/9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:26:48+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:26:49+08:00 ] 0.0.0.0 /Tp_group/9
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:27:14+08:00 ] 0.0.0.0 /Tp_group/7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T10:27:14+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:27:14+08:00 ] 0.0.0.0 /Tp_group/7
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:27:48+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:27:49+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:27:49+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:28:20+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:20+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:22+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:22+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:27+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:28+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:31+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:31+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:34+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-12-01T10:28:34+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/4
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:37+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:37+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-12-01T10:28:40+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:28:40+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:45+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:28:45+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:29:14+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T10:29:15+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:29:16+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:29:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:29:18+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:29:42+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T10:29:46+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:29:46+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:29:46+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+
+[ 2014-12-01T10:29:46+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:29:53+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:29:53+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:29:55+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:29:55+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:30:05+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:30:05+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:30:59+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:31:00+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:32:45+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:32:46+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:32:58+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:32:59+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:33:56+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:33:56+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:34:40+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:34:40+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:35:54+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:35:54+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:35:59+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:35:59+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:36:03+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:36:04+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007001s ]
+
+[ 2014-12-01T10:38:00+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:38:01+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:38:30+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:38:30+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:39:12+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:39:12+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-12-01T10:39:31+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T10:39:31+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:40:27+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:40:27+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:40:41+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:40:41+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:41:23+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:41:24+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:41:35+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:41:36+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:41:43+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:41:43+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T10:42:13+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:42:14+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:44:11+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T10:44:11+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:44:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:44:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T10:48:08+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T10:48:08+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:48:08+08:00 ] 0.0.0.0 /Tp_group/v/Array
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009001s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:48:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:48:17+08:00 ] 0.0.0.0 /Tp_group/v/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:48:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009000s ]
+
+[ 2014-12-01T10:48:36+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:48:36+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:48:36+08:00 ] 0.0.0.0 /Tp_group/v/%3Cpre%3E%3Cpre%3E%20%3C/pre%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009001s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:49:01+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T10:49:01+08:00 ] 0.0.0.0 /Tp_group/v/%3Cpre%3E%3Cpre%3E%20Array(%20%20%20%20[id]%20=%3E%208%20%20%20%20[aid]%20=%3E%201%20%20%20%20[uid]%20=%3E%201%20%20%20%20[content]%20=%3E%20%E6%B2%A1%E5%95%A5%E5%91%80%20%20%20%20[time]%20=%3E%201414238623%20%20%20%20[status]%20=%3E%200)%3C/pre%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:49:01+08:00 ] 0.0.0.0 /Tp_group/v/%3Cpre%3E%3Cpre%3E%20Array(%20%20%20%20[id]%20=%3E%207%20%20%20%20[aid]%20=%3E%201%20%20%20%20[uid]%20=%3E%201%20%20%20%20[content]%20=%3E%20%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B%20%20%20%20[time]%20=%3E%201414238573%20%20%20%20[status]%20=%3E%200)%3C/pre%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:49:01+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:53:53+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:53:54+08:00 ] 0.0.0.0 /Tp_group/v/%3Cpre%3E%3Cpre%3E%20Array(%20%20%20%20[id]%20=%3E%207%20%20%20%20[aid]%20=%3E%201%20%20%20%20[uid]%20=%3E%201%20%20%20%20[content]%20=%3E%20%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B%20%20%20%20[time]%20=%3E%201414238573%20%20%20%20[status]%20=%3E%200%20%20%20%20[pic]%20=%3E%20./Uploads/avatar/201410/5448d747eaecd.jpg)%3C/pre%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:53:54+08:00 ] 0.0.0.0 /Tp_group/v/%3Cpre%3E%3Cpre%3E%20Array(%20%20%20%20[id]%20=%3E%208%20%20%20%20[aid]%20=%3E%201%20%20%20%20[uid]%20=%3E%201%20%20%20%20[content]%20=%3E%20%E6%B2%A1%E5%95%A5%E5%91%80%20%20%20%20[time]%20=%3E%201414238623%20%20%20%20[status]%20=%3E%200%20%20%20%20[pic]%20=%3E%20./Uploads/avatar/201410/5448d747eaecd.jpg)%3C/pre%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:53:54+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T10:54:08+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T10:54:08+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:54:19+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:54:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-12-01T10:54:20+08:00 ] 0.0.0.0 /Tp_group/v/Array
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:v
+
+[ 2014-12-01T10:54:26+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:54:26+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:56:34+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:56:35+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007001s ]
+
+[ 2014-12-01T10:56:50+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:56:51+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T10:57:02+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T10:57:02+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-12-01T10:57:52+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:57:52+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:59:11+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T10:59:12+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:00:37+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:00:37+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:01:00+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:01:00+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:01:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:01:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T11:01:24+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:01:24+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+
+[ 2014-12-01T11:03:04+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:03:04+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:03:30+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:03:30+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:03:44+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:03:44+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:04:26+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:04:26+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:04:49+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:04:50+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:05:08+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:05:09+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:05:19+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:05:19+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:06:10+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:06:10+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T11:06:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:06:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:07:49+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:07:49+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:07:57+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:07:57+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:08:15+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:08:15+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:08:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:08:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:09:16+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:09:16+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:09:28+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:09:29+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:09:31+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:09:31+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:09:34+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:09:35+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:11:12+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:11:13+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:11:42+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:11:42+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-12-01T11:12:18+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:12:18+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:12:39+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:12:39+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:13:21+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:13:22+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:13:51+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:13:52+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:14:18+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:14:19+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:14:41+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:14:41+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:14:54+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:14:54+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:15:00+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:15:01+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:15:24+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:15:24+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:15:42+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:15:42+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:19:08+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:19:08+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:19:43+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:19:43+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:20:01+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:20:02+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:20:39+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T11:20:59+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+
+[ 2014-12-01T11:20:59+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T11:20:59+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:21:04+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:21:04+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:21:06+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:21:06+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:25:03+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:25:04+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:27:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-12-01T11:27:18+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:29:38+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:29:38+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:30:10+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:30:10+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:30:10+08:00 ] 0.0.0.0 /Tp_group/Public/kindeditor/themes/default/simple.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Public
+
+[ 2014-12-01T11:30:10+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:30:23+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:30:23+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:32:46+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:32:46+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:34:41+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:34:42+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:35:05+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:35:05+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:35:12+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:35:12+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:36:07+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:36:07+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:36:19+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:36:20+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:36:46+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:36:46+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:36:56+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:36:56+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:37:13+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:37:13+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:37:38+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:37:38+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:37:47+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:37:47+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:38:30+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:38:31+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:39:15+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:39:15+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:40:21+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:40:22+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:40:45+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T11:40:45+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:41:04+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:41:04+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:41:29+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:41:30+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:41:38+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:41:38+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T11:41:45+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:41:45+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:42:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:42:17+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:42:49+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:42:49+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:42:51+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:42:52+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:42:55+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:42:55+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:43:15+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-12-01T11:43:16+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:43:27+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:43:27+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:43:56+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:43:56+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007001s ]
+
+[ 2014-12-01T11:44:22+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:44:23+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-12-01T11:44:34+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:44:35+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:44:44+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:44:44+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:45:00+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:45:01+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:45:06+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:45:07+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:45:13+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:45:14+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:45:18+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T11:45:19+08:00 ] 0.0.0.0 /Tp_group/Play/index/search/key/name/thinkphp/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T11:45:28+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T11:45:33+08:00 ] 0.0.0.0 /Tp_group/s/15
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T11:45:33+08:00 ] 0.0.0.0 /Tp_group/s/15
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T18:51:37+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:52:19+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.029002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.034002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:53:10+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:53:17+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.038002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.040002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:53:44+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:54:29+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:55:24+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:55:43+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:55:53+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.023001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.026001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:56:01+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:56:10+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.031002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.035002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:56:28+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:56:53+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:57:07+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.019001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:58:51+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:59:02+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:59:09+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.054004s ]
+INFO: [ route_check ] --END-- [ RunTime:0.054004s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T18:59:48+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:01:05+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.027001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.028001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:03:24+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:11:43+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:16:50+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:17:05+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.047002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.049003s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:17:45+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:19:33+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:20:51+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:21:01+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:22:41+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:24:25+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:25:28+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:25:47+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:26:16+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:26:27+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:26:40+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.025002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:27:01+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.020001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.022001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:27:10+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:27:16+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:27:25+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:27:37+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.022001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:27:43+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.024001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.035002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:27:57+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.032002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.032002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:28:23+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:28:30+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.008001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:28:35+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:28:45+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:28:51+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:29:11+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:31:47+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:32:05+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.013001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:32:34+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:33:36+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:33:45+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:34:01+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:34:49+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:35:16+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:35:34+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:35:42+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.012000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.013000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:35:49+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.009001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.015001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:36:58+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:37:05+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.009001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:37:53+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:38:16+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:38:23+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:38:30+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:38:58+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:39:20+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:41:49+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:42:31+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.022001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.031002s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:44:10+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:44:16+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:45:08+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:45:13+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:45:42+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:47:23+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-12-01T19:47:23+08:00 ] 0.0.0.0 /Tp_group/Home/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-12-01T19:47:23+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-12-01T19:47:25+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-01T19:47:40+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-12-01T19:47:40+08:00 ] 0.0.0.0 /Tp_group/s/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T19:47:45+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T19:47:45+08:00 ] 0.0.0.0 /Tp_group/v/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-12-01T19:47:53+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:Thumb
+

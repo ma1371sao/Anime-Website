@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>新增幻灯片</title>
+</head>
+<body>
+<form action="{:U(GROUP_NAME.'/Animate/handelAddPpt')}" method="post" enctype="multipart/form-data">
+	对应的动漫 : {$name}(序号:$id)<br/>
+
+	上传ppt图片:<input type="file" name="pic"/><br/>
+	标题 :<input type="text" name="title"/><br/>
+	是否显示:<input type="radio" name="state" checked="checked" value="1">是
+			 <input type="radio" name="state" value="0">否<br/>
+	<input type="hidden" name="aid" value="{$id}"/>
+	<input type="submit" value="提交" />
+</form>		
+</body>
+</html>

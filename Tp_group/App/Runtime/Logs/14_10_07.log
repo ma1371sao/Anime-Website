@@ -1,0 +1,101 @@
+[ 2014-10-07T20:59:02+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.016001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017001s ]
+
+[ 2014-10-07T20:59:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-07T20:59:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.015000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.016000s ]
+
+[ 2014-10-07T20:59:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.9418248066212982
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-07T20:59:25+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-07T20:59:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T20:59:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:00:03+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.633084227796644
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:00:06+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:00:06+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:01:07+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-07T21:01:25+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:01:27+08:00 ] 0.0.0.0 /Tp_group/Admin/System/water
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-07T21:02:28+08:00 ] 0.0.0.0 /Tp_group/Admin/System/updateWater
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:02:29+08:00 ] 0.0.0.0 /Tp_group/Admin/System/water
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-07T21:02:56+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:04:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-07T21:04:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:04:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-07T21:04:50+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:App
+

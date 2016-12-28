@@ -1,0 +1,141 @@
+[ 2014-11-29T16:21:02+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.050002s ]
+INFO: [ route_check ] --END-- [ RunTime:0.052003s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-11-29T16:23:08+08:00 ] 0.0.0.0 /Tp_group/av/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-11-29T16:23:08+08:00 ] 0.0.0.0 /Tp_group/av/6
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-11-29T16:23:14+08:00 ] 0.0.0.0 /Tp_group/AVList/index/id/6/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-11-29T16:23:15+08:00 ] 0.0.0.0 /Tp_group/AVList/index/id/6/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-11-29T16:23:21+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-11-29T16:23:21+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-11-29T16:23:21+08:00 ] 0.0.0.0 /Tp_group/Home/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-11-29T16:23:34+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/13
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-11-29T16:23:35+08:00 ] 0.0.0.0 /Tp_group/Home/Detail/index/id/13
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-11-29T16:24:21+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.010001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.012001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-11-29T16:24:36+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-11-29T16:24:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-11-29T16:24:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-11-29T16:24:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-11-29T16:24:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-11-29T16:24:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-11-29T16:28:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Blog/handelAddBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-11-29T16:28:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Blog/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-11-29T16:29:04+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-11-29T16:29:22+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-11-29T16:29:22+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-11-29T16:29:22+08:00 ] 0.0.0.0 /Tp_group/Home/Show/click/id/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-11-29T16:29:22+08:00 ] 0.0.0.0 /Tp_group/12
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-11-29T16:40:49+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-11-29T17:17:26+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.019001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020001s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-11-29T17:17:28+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:Thumb
+

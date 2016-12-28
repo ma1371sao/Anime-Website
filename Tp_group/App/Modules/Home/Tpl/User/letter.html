@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>私信页</title>
+	<js file="__PUBLIC__/Js/jquery.js"/>
+	<js file="__PUBLIC__/Js/letter.js"/>
+</head>
+<body>
+	<!-- 输出私信部分 -->
+	<h4>我的私信共{$count}条</h4>
+	<foreach name="letter" item="v">
+		<div class="letter">
+		<a href="#"><img src="{$v.pic}"/></a>
+		用户名:{$v.uname}
+		内容:<span>{$v.content}</span>
+		<p>发送时间<span>{$v.time|time_format=###}</span></p>
+		<p><a href="javascript:;" class="del" del-id='{$v.id}'>删除</a><a href="#">回复</a></p>
+		</div>
+	</foreach>
+	<!-- 分页页码 -->
+	{$page}
+	<!-- 发送私信 -->
+	<form action="{:U(GROUP_NAME.'/User/letterSend')}" method="post">
+		用户姓名 :<input type="text" name="name"/><br/>
+		私信内容 :<textarea name="content"></textarea><br/>
+		<input type="submit" value="发送" />
+	</form>
+</body>
+</html>

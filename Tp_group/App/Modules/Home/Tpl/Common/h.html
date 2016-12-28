@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<!-- 头部模板文件 -->
+	<title>首页</title>
+	<meta charset="utf8" />
+	<!-- 网站图标设置 -->
+	<link rel="shortcut icon" href="favicon.ico" />
+	<!-- css -->
+	<css file="__PUBLIC__/Css/default.css" />
+	<css file="__PUBLIC__/Css/font-awesome.min.css"/>
+	<css file="__PUBLIC__/Css/Head.css"/>
+	<css file="__PUBLIC__/Css/Home-Index.css"/>	
+</head>
+<body>
+	<!-- 导航开始 --><!-- tolerance 向上一下滚动x距离就显示头部 -->
+	<!-- offset 线下滚动超过一定距离开始显示效果 --><!-- data属性为headroom的设置值 -->
+	<div id="nav" data-headroom data-tolerance="5" data-offset="100">
+		<div class="inner-nav1 clearfix">
+		<div class="nav-h"><img src="__PUBLIC__/Image/logo.png" />
+		</div>
+		<!-- 搜索 -->
+		<form action="{:U(GROUP_NAME.'/Search/index')}" method="get" class="search-form clearfix">
+			<span class=""><i class="fa  fa-search"></i></span>
+			<input  type="text" name="k" placeholder="搜索" class="search-input"/>
+			<!-- <input  type="submit" value="GO" class="search-btn r"/> -->
+		</form>
+		<div class="login-group r">
+		<!-- 登录按钮 -->
+		<if condition="session('user_name') eq null">
+		<a href="{:U('Home/Login/index')}" class="login-btn"><i class="fa fa-user"></i>登录</a><a href="#"class="login-btn"><i class="fa fa-pencil"></i>注册</a>
+		<else/>
+		<i class="fa fa-user"></i> {$Think.session.user_name}<a href="{:U(GROUP_NAME.'/Login/logout')}" class="login-btn"><i class="fa fa-info"></i> 注销</a>
+		</if>
+		</div>
+		</div>
+		<!-- 搜索结束 -->
+		<div id="nav-js">
+		<div class="inner-nav2">
+		<!-- 父级nav开始 -->
+		<ul class="main-nav clearfix">
+			<!-- 固定的首页链接 -->
+			<li class="main-li" ><a href="__GROUP__" class="main-li-a">首页</a></li>
+		<!-- 自定义nav循环标签 order 排序方式 -->
+		<nav limit="10" order="sort ASC">
+			<li class="main-li" data-channel="{$id}"><!-- 循环得到的li项 -->
+				<a href="{$url}" class="main-li-a">{$name}
+					<div class="tail"></div>
+				</a><!-- 父级名称 -->
+			</li>
+		</nav>
+		<!-- 循环结束 -->
+		</ul>
+		</div><!-- nav内层结束 -->
+		<!-- 父级nav结束 -->
+		<!-- 填充sub的子层 -->
+		<div class="sub-guide">
+			<div class="nav-bg"></div>
+			<!-- 循环开始 -->
+			<nav limit="10" order="sort ASC">
+				<if condition="$child"><!-- 如果child子项存在值 -->
+				<ul class="sub-nav clearfix" data-id="{$id}"><!-- 子项名称 -->
+					<foreach name="child" item="v">
+						<li class><a href="{:U('/l/'.$v['id'])}">{$v.name}</a></li>
+					</foreach>
+				</ul>
+				</if>
+			</nav>
+			<!-- 启用了url路由模式 U生成 /l/+数字的形式地址 --><!-- 循环结束 -->
+		</div>
+		<!-- sub子层结束 -->
+		</div>
+	</div>
+	<!-- 导航结束 -->

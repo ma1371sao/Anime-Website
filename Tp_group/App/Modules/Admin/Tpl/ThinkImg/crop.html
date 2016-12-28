@@ -1,0 +1,137 @@
+<html>
+<head>
+	<title>裁剪图片</title>
+	<css file="__PUBLIC__/Css/jquery.Jcrop.min.css" />
+	<js file="__PUBLIC__/Js/jquery.js" />
+	<js file="__PUBLIC__/Js/jquery.Jcrop.min.js" />
+	<style type="text/css">
+.crop{
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.crop_large{
+    height: 260px;
+    width: 260px;
+}
+.crop_small{
+    height: 130px;
+    margin-left: 20px;
+    width: 130px;
+}
+	</style>
+
+</head>
+<body>
+	<input type="hidden" id="orignpath" value="{$pic.pic}"/>
+	<img src="{$pic.pic}" id="img-crop"/>
+	左上x<input type="text" id="x" name="x"/><br>
+	左上y<input type="text" id="y" name="y"/><br>
+	右下x<input type="text" id="x2"/><br>
+	右下y<input type="text" id="y2"/><br>
+	宽<input type="text" id="w" name="w"/>
+	高<input type="text" id="h" name="h"/>
+	<div class="crop crop_large" id="large"><img id="crop-preview-large" src="{$pic.pic}" alt=""></div>
+	<div class="crop crop_small" id="small"><img id="crop-preview-small" src="{$pic.pic}" alt=""></div>
+	<div><button id="yueshu_1">约束1:1</button> <button class="submit" data-num="1">裁剪</button></div>
+	<div><button id="yueshu_2">约束11:4</button><button class="submit" data-num="2">裁剪</button></div>
+	<div><button id="yueshu_3">约束3:2</button>	<button class="submit" data-num="3">裁剪</button></div>
+	<div><button id="yueshu_4">约束3:4</button>	<button class="submit" data-num="4">裁剪</button></div>
+	<div><button id="yueshu_5">约束4:5</button>	<button class="submit" data-num="5">裁剪</button></div>
+	<div><img id="show" src=""/></div>
+</body>
+<script type="text/javascript">
+$(function() {
+	var api;
+	$('#img-crop').Jcrop({
+		aspectRatio: 1,     //约束比例
+		onChange: showPreview,
+		onSelect: showPreview,
+		onSelect:function(c){
+			$('#x').val(c.x);
+			$('#y').val(c.y);
+			$('#x2').val(c.x2);
+			$('#y2').val(c.y2);
+			$('#w').val(c.w);
+			$('#h').val(c.h);
+		}
+		},function(){
+			api = this;
+		});
+	//预览图显示
+	//参数 coords
+	function showPreview(c){
+		var img_width = $('#img-crop').width();
+		var img_height = $('#img-crop').height();
+		  //根据包裹的容器宽高,设置被除数
+		  var rx = $("#large").width()  / c.w;
+		  var ry = $("#large").height() / c.h; 
+		  $('#crop-preview-large').css({
+		    width: 	Math.round(rx * img_width) + 'px',
+		    height: Math.round(ry * img_height) + 'px',
+		    marginLeft: '-' + Math.round(rx * c.x) + 'px',
+		    marginTop:  '-' + Math.round(ry * c.y) + 'px'
+		  });
+		  rx = $("#small").width()/ c.w;
+		  ry = $("#small").height()/ c.h;
+		  $('#crop-preview-small').css({
+		    width: 	Math.round(rx * img_width) + 'px',
+		    height: Math.round(ry * img_height) + 'px',
+		    marginLeft: '-' + Math.round(rx * c.x) + 'px',
+		    marginTop:  '-' + Math.round(ry * c.y) + 'px'
+		  });
+	}
+	// 改变比例
+	// 260x260
+	$('#yueshu_1').click(function(){
+		api.setOptions({aspectRatio:1});
+		$("#large").css({width:'260px',height:'260px'});
+		$("#small").show();
+		return false;
+	});
+	// 220x80
+	$('#yueshu_2').click(function(){
+		api.setOptions({aspectRatio:2.75});
+		$("#large").css({width:'220px',height:'80px'});
+		$("#small").hide();
+		return false;
+	});
+	// 150x100
+	$('#yueshu_3').click(function(){
+		api.setOptions({aspectRatio:1.5});
+		$("#large").css({width:'150px',height:'100px'});
+		$("#small").hide();
+		return false;
+	});
+	// 150x200
+	$('#yueshu_4').click(function(){
+		api.setOptions({aspectRatio:0.75});
+		$("#large").css({width:'150px',height:'200px'});
+		$("#small").hide();
+		return false;
+	});
+	// 200x250
+	$('#yueshu_5').click(function(){
+		api.setOptions({aspectRatio:0.8});
+		$("#large").css({width:'200px',height:'250px'});
+		$("#small").hide();
+		return false;
+	});
+	$(".submit").click(function(){
+		var pic = $("#orignpath").val();
+		var x  	= $('#x').val();
+		var y  	= $('#y').val();
+		var w 	= $('#w').val();
+		var h 	= $('#h').val();
+		var num = $(this).attr('data-num');
+		$.post("{:U('cropImage')}",{img:pic,x:x,y:y,w:w,h:h,type:num},function (data){
+			if(data['status'] == 1){
+				var img = data['data']['img'];
+				$("#show").attr("src",img);
+			}
+		},'json');
+	});
+});
+</script>
+</html>

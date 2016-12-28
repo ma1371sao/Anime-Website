@@ -1,0 +1,157 @@
+<!-- 首页ppt工具 -->
+<div class="Hband clearfix">
+<ul class="ppt l">
+	<foreach name="ppt" item="po">
+	<li class="ppt-li">
+		<a href="{$po.aid}" target="_blank"><img src="{$po.pic}" width="880px" height="410px" alt="{$po.title}"/></a>
+	</li>
+	</foreach>
+</ul>
+<!-- 每日更新 -->
+<style>
+.side-update{
+	display: inline-block;
+	width: 240px;
+	height:400px;
+	vertical-align: top;
+	font: normal 12px/24px "MicroSoft YaHei" ;
+}
+.menu_body{
+	position: relative;
+	margin-left: 40px;
+	width:190px;
+	height:200px;
+	overflow-y:  auto;
+	border-bottom: 1px dashed #ddd;
+	border-left: 1px dashed #9ed900;
+	display: none;
+}
+.menu_body li{
+	padding-left: 14px;
+	font: normal 12px/24px "MicroSoft YaHei" ;
+}
+.menu_body li a{
+	color:#333;
+}
+.menu_head{
+	display: inline-block;
+	position: relative;
+	line-height: 20px;
+	text-align: center;
+	height:20px;
+	width: 40px;
+	cursor: pointer;
+	background: #f3f3f3;
+	color:#333;
+	border-radius: 2px;
+}
+.side-update .current{
+	background: #9ed900;
+	color: #fff;
+}
+.menu_guide{
+	display:inline-block;
+	padding-left: 10px;
+	height:20px;
+	width:180px;
+	color: #333;
+}
+.menu_san{
+	display: inline-block;
+	position: absolute;
+	bottom: -10px;
+	left:   15px;
+	width: 0px;
+	height: 0px;
+
+	border-top:    5px solid #9ed900;
+	border-right:  5px solid transparent;
+	
+	border-left:   5px solid transparent;
+	border-bottom: 5px solid transparent; 
+	overflow: hidden;
+}
+.under{
+	border-bottom:  1px dashed #ddd;
+}
+</style>
+
+	
+
+<div id="update_menu" class="side-update r">
+	<div class="side-head green-back"><h3>每周更新</h3></div>
+	<foreach name="update" item="up" key="km">
+	<div class="menu_head <if condition='$km eq 1'>current</if>">{$km|int_to_date=###}
+		<span class="<if condition='$km eq 1'>menu_san</if>"></span></div>
+	<foreach name="up" item="upp"> 
+		<if condition="$key eq 0"><a href="{:U('/s/'.$upp['id'])}" class="menu_guide <if condition='$km neq 1'>under</if>">{$upp.title}</a><ul class="menu_body">
+			<else/><li><a href="{:U('/s/'.$upp['id'])}">{$upp.title}</a></li>
+		</if>
+	</foreach>
+	</ul>
+	</foreach>
+	<!-- <div class="menu_head current">周一<span class="menu_san"><span></div>
+	<a href="#" class="menu_guide">ab</a>
+<ul class="menu_body">
+	<li><a href="">a</a></li>
+	<li><a href="">c</a></li>
+	<li><a href="">d</a></li>
+	<li><a href="">e</a></li>
+	<li><a href="">f</a></li>
+</ul>
+	<div class="menu_head">周二<span class=""><span></div>
+	<a href="#" class="menu_guide under">a</a>
+<ul class="menu_body">
+	<li><a href="">b</a></li>
+	<li><a href="">c</a></li>
+	<li><a href="">d</a></li>
+	<li><a href="">e</a></li>
+	<li><a href="">f</a></li>
+</ul>
+	<div class="menu_head">周三<span class=""><span></div>
+	<a href="#" class="menu_guide under">a</a>
+<ul class="menu_body">
+	<li>b</li>
+	<li>c</li>
+	<li>d</li>
+	<li>e</li>
+	<li>f</li>
+</ul>
+	<div class="menu_head">周四<span class=""><span></div>
+	<a href="#" class="menu_guide under">a</a>
+<ul class="menu_body">
+	<li>b</li>
+	<li>c</li>
+	<li>d</li>
+	<li>e</li>
+	<li>f</li>
+</ul>
+	<div class="menu_head">周五<span class=""><span></div>
+	<a href="#" class="menu_guide under">a</a>
+<ul class="menu_body">
+	<li>b</li>
+	<li>c</li>
+	<li>d</li>
+	<li>e</li>
+	<li>f</li>
+</ul>
+	<div class="menu_head">周六<span class=""><span></div>
+	<a href="#" class="menu_guide under">a</a>
+<ul class="menu_body">
+	<li>b</li>
+	<li>c</li>
+	<li>d</li>
+	<li>e</li>
+	<li>f</li>
+</ul>
+	<div class="menu_head">周日<span class=""><span></div>
+	<a href="#" class="menu_guide under">a</a>
+<ul class="menu_body">
+	<li>b</li>
+	<li>c</li>
+	<li>d</li>
+	<li>e</li>
+	<li>f</li>
+</ul> -->
+</div>
+</div>

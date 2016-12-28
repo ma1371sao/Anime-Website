@@ -1,0 +1,5 @@
+border tail.png 	首页导航
+footer.png	尾部背景
+ico.png 		ppt 图标
+grey.gif		预加载图
+infoBg.png	说明小背景

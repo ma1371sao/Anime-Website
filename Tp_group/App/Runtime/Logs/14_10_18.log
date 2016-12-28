@@ -1,0 +1,1102 @@
+[ 2014-10-18T14:17:32+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.020001s ]
+
+[ 2014-10-18T14:17:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:17:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-10-18T14:17:39+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:17:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T14:17:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:17:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:17:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:18:56+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T14:19:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-18T14:19:09+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:25:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T14:25:20+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/setting
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T14:28:43+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/setting
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T14:28:47+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T14:29:12+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:31:29+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:31:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T14:31:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T14:31:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T14:34:16+08:00 ] 0.0.0.0 /Tp_group/User
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T14:53:39+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:56:02+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:56:11+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:56:23+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T14:57:05+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?keyword=3123123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T15:05:01+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?keyword=3123123
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T15:05:35+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?keyword=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T15:05:43+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:06:10+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:06:51+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:07:12+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=2313
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T15:08:14+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:08:25+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:08:27+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:08:31+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:08:45+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:08:57+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T15:09:03+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T15:31:37+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T15:31:49+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T15:32:32+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:33:21+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T15:33:52+08:00 ] 0.0.0.0 /Tp_group/av/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:34:30+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:35:06+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T15:35:22+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:35:41+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:35:57+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.018001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.018001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:36:12+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:36:50+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:38:28+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:38:37+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:38:50+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:39:25+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:39:48+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:40:12+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:40:42+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:41:56+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:42:05+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:42:15+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:43:09+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:44:03+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:44:48+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:44:52+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:44:59+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:45:48+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:46:05+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:48:03+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:48:25+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:48:54+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:49:14+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=n
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:50:19+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:50:33+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:50:50+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:55:45+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:55:57+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:56:06+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:58:13+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T15:58:21+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:58:24+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/2.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:58:26+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:58:29+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/2.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:58:33+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:58:56+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/2.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T15:58:57+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T16:04:29+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T16:04:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T16:04:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T16:04:43+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T16:04:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T16:05:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T16:05:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T16:05:08+08:00 ] 0.0.0.0 /Tp_group/Admin/MsgManage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T16:10:40+08:00 ] 0.0.0.0 /Tp_group/Admin/MsgManage/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-18T16:10:54+08:00 ] 0.0.0.0 /Tp_group/Admin/MsgManage/index/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T16:10:56+08:00 ] 0.0.0.0 /Tp_group/Admin/MsgManage/index/p/1
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T16:12:44+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-18T16:12:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T16:12:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T16:12:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T17:28:56+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:29:45+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:30:07+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:30:15+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:30:23+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:30:37+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:30:44+08:00 ] 0.0.0.0 /Tp_group/Home/Search/index.html?k=a
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:30:47+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/2.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:30:48+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:31:42+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:31:56+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/2.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:35:53+08:00 ] 0.0.0.0 /Tp_group/Search/index/k/a/p/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_get
+
+[ 2014-10-18T17:56:53+08:00 ] 0.0.0.0 /Tp_group/av/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T19:00:59+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:00:59+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T19:00:59+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T19:01:10+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T19:01:10+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:01:16+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:01:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:01:27+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T19:02:12+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:02:14+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T19:03:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:03:39+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:04:28+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:04:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:04:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:05:17+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:05:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T19:09:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:10:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T19:10:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:21+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:35+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:43+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:11:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-18T19:11:59+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-18T19:12:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index/p/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T19:12:03+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index/p/3
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T19:12:11+08:00 ] 0.0.0.0 /Tp_group/av/1.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T19:12:25+08:00 ] 0.0.0.0 /Tp_group/Animate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Animate
+
+[ 2014-10-18T19:12:29+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:12:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:12:44+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddAnimate
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T19:12:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:12:50+08:00 ] 0.0.0.0 /Tp_group/av/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T19:15:10+08:00 ] 0.0.0.0 /Tp_group/av/6.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T19:16:55+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:21:35+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T20:21:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:21:43+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:22:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:23:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T20:23:27+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T20:23:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:24:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-18T20:24:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:25:37+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:26:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:26:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T20:26:59+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:29:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:30:26+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:30:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:30:42+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:31:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/addPpt/id/2/name/1323
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T20:31:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-18T20:32:14+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:40:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:41:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:41:52+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/handelAddPpt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:41:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:52:44+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T20:52:44+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/Array
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:Array
+
+[ 2014-10-18T20:53:59+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:53:59+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/Array
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:Array
+
+[ 2014-10-18T20:54:26+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:54:26+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/%7Bp=$p.pic%7CIpic=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:{p=$p.pic|Ipic=
+
+[ 2014-10-18T20:54:37+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:54:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/%7B%7Cp=$p.pic%7CIpic=
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:{|p=$p.pic|Ipic=
+
+[ 2014-10-18T20:54:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-18T20:54:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/%3Cpre%3E%3Cpre%3E%20Array(%20%20%20%20[orign]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4.jpg%20%20%20%20[small]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4_30.jpg%20%20%20%20[middle]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4_60.jpg%20%20%20%20[large]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4_100.jpg)%3C/pre%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作: Array(    [orign] =>
+
+[ 2014-10-18T20:55:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:55:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/%3Cpre%3E%3Cpre%3E%20Array(%20%20%20%20[orign]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4.jpg%20%20%20%20[small]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4_30.jpg%20%20%20%20[middle]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4_60.jpg%20%20%20%20[large]%20=%3E%20/Tp_group/Uploads/Ppt/54426010391b4_100.jpg)%3C/pre%3E
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作: Array(    [orign] =>
+
+[ 2014-10-18T20:57:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T20:57:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/Array
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007001s ]
+ERR: 非法操作:Array
+
+[ 2014-10-18T21:03:25+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T21:03:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-18T21:04:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Animate/ppt
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-18T21:19:04+08:00 ] 0.0.0.0 /Tp_group/
+ERR: 实例化一个不存在的类！:PptWidget
+
+[ 2014-10-18T21:19:04+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Css/default.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:19:04+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Css/Home-Index.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:19:04+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Js/headroom.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:19:04+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Js/jquery.color.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:19:04+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Js/jquery.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:23:26+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Css/default.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:23:26+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Css/Home-Index.css
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:23:26+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Js/jquery.color.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:23:26+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Js/headroom.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:__PUBLIC__
+
+[ 2014-10-18T21:23:26+08:00 ] 0.0.0.0 /Tp_group/__PUBLIC__/Js/jquery.js
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:__PUBLIC__
+

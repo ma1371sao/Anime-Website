@@ -1,0 +1,200 @@
+@import url("default.css");
+/*字体*/
+@import url("font-awesome.min.css");
+.container{
+	position: relative;
+	width:1000px;
+	margin: 0px auto;
+}
+/*登录外层*/
+#login-outer{
+	width:300px;
+	height:auto;
+	position: relative;
+	float:right;
+	background-color: #fff;
+	border:1px solid #ccc;
+	box-shadow:0 0 2px rgba(0, 0, 0, 0.2),0 1px 1px rgba(0, 0, 0, .2);
+
+
+	padding: 32px 16px;
+	margin:100px 30px;
+	font-size: 12px;
+	font-family: Microsoft YaHei !important;
+}
+/*登录logo*/
+.login-logo{
+	position: relative;
+	margin-top: 130px;
+	margin-left: 50px;
+	float: left;
+}
+.login-logo>img{
+	display: none;
+}
+/*登录标题*/
+#login-outer>h3{
+	font-size: 20px;
+	color: #666;
+	margin: 0px 16px 20px 16px;
+}
+/*登录行设置*/
+#login-outer .form-line{
+	display: block;
+	position: relative;
+	margin:0px 0px 15px 0px;
+}
+#login-outer .form-line>label{
+	display: inline-block;
+	color: #666;
+	width:40px;
+	height:30px;
+	margin-right: 5px;
+	line-height: 30px;
+	text-align: right;
+}
+#login-outer .form-line>input{
+	position: relative;
+	width:235px;
+	height:30px;
+	color:#555 ;
+	font-family: Microsoft YaHei !important;
+	font-size: 12px;
+	outline: none;
+	border:1px solid #bbb;
+	border-radius: 1px;
+	line-height: 24px;
+	padding-left: 8px;
+}
+/*验证码设置*/
+#login-outer .form-line>input#verify{
+	width:100px;
+}
+#login-outer .form-tool>a{
+	display: block;
+	vertical-align:bottom;
+	text-decoration: none;
+}
+a#forget{
+	float:left;
+	color: #ddd;
+}
+a#change{
+	float: right;
+	color: #339ad4;
+}
+#login-outer .form-tool>a:hover{
+	text-decoration: underline;
+}
+#login-outer .form-line>img#code{
+	display: inline-block;
+	margin-left: 40px;
+	vertical-align: bottom;
+}
+/*提交等设置*/
+.form-tool{
+	margin: 20px 16px;
+}
+.form-submit{
+	border: none;
+	outline: none;
+	background-color: #5ab75c;
+	color: #fff;
+	font-family: Microsoft YaHei !important;
+	width:100%;
+	font-size: 16px;
+	height: 35px;
+	line-height: 32px;
+	margin:20px 0px;
+	cursor: pointer;
+}
+/*其他登录*/
+#login-outer .other-login{
+	position: relative;
+	border-top: 1px solid #ccc;
+	text-align: center;
+	width:250px;
+	margin: 0px auto;
+}
+#login-outer .other-login>p{
+	display: inline-block;
+	position: relative;
+	background-color: #fff;
+	padding: 0px 5px;
+	color: #666;
+	height: 16px;
+	top: -8px;
+}
+/*成功样式*/
+.login-success{
+	border:1px solid #5ab75c !important;
+	color:#5ab75c !important;
+}
+.login-error{
+	border:1px solid #c00 !important;
+	color: #c00 !important;
+}
+/*提示元素*/
+.hint{
+	display: none;
+	position: absolute;
+	border: 1px solid #FF9900;
+	height:28px;
+	z-index: 100;
+	padding-left: 10px;	
+	padding-right: 10px;
+	border-radius: 2px;
+	
+	background-color: #FF9900;
+	color:#fff;
+}
+.hint p{
+	display: inline-block;
+	margin:0px auto;
+	line-height: 30px;
+	height: 20px;
+	color:#fff !important;
+	font-family: Microsoft YaHei;
+	font-size: 12px;
+	vertical-align: top;
+	font-weight: bold;
+	text-align: left;
+}
+/*箭头*/
+.arrow{
+	display: inline-block;
+	width:0px;
+	height: 0px;
+	line-height: 0px;/*为了防止ie下出现题型*/
+
+	position: absolute;
+}
+/*箭头指向*/
+.arrow-left{
+	top:5px;
+	left:-6px;
+	border-top:    6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-right:  6px solid #FF9900;
+}
+.arrow-right{
+	top:5px;
+	right:-6px;
+	border-top:    6px solid transparent;
+	border-bottom: 6px solid transparent;
+	border-left:  6px solid #FF9900;
+}
+.arrow-top{
+	top:-6px;
+	left:5px;
+	border-right:   6px solid transparent;
+	border-left: 	6px solid transparent;
+	border-bottom:  6px solid #FF9900;
+}
+.arrow-bottom{
+	bottom:-6px;
+	left:5px;
+	border-right:   6px solid transparent;
+	border-left: 	6px solid transparent;
+	border-top:  6px solid #FF9900;
+}

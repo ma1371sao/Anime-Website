@@ -1,0 +1,38 @@
+﻿<include file="Common:h"/>
+<!-- 代码高亮插件 -->
+<css file="__ROOT__/App/Modules/Admin/Tpl/Public/kindeditor/plugins/code/prettify.css" />
+<js  file="__ROOT__/App/Modules/Admin/Tpl/Public/kindeditor/plugins/code/prettify.js"/>
+<div class="container">
+	<!-- <a href="">首页</a> -->
+	<php>$last = count($parents) - 1;</php>
+	<foreach name="parents" item="v">
+		<a href="{:U('/l/'.$v['id'])}">{$v.name}</a>
+		<!-- 判断最后一个 -->
+		<if condition="$key neq $last"> >> </if>
+	</foreach>
+	<div class="clearfix">
+	<div class="warpper l">
+		<div>
+			<p class="wen-tit">{$blog.title}</p>
+			<p class="wen-s-tit"><span>主页>文章</span>发布于<span>{$blog.time|date="Y年m月d日 H时i分",###}</span> /
+				<span>已被阅读<script type="text/javascript" src="{:U(GROUP_NAME.'/Show/click',array('id' =>$blog['id']))}"></script>次</span>
+				<span>评论：380  收藏：67 / 举报文章<span>
+			</p>
+		</div>
+
+		<div class="wen-con">{$blog.content}</div>
+	</div>
+	<div class="side r">
+		{:W('New',array('limit' => 9))}
+		<img src="__ROOT__/Uploads/ad/l-ad1.jpg" class="advertise"/>
+		<img src="__ROOT__/Uploads/ad/ad11.jpg" class="advertise"/>
+		<img src="__ROOT__/Uploads/ad/ad5.jpg" class="advertise"/>
+		<img src="__ROOT__/Uploads/ad/ad10.jpg" class="advertise"/>
+		<img src="__ROOT__/Uploads/ad/ad9.jpg" class="advertise"/>
+	</div>
+	</div>
+</div>
+<script type="text/javascript">
+	prettyPrint();
+</script>
+<include file="Common:f"/>

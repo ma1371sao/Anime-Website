@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!-- 头部模板文件 -->
+	<title>首页</title>
+	<meta charset="utf8" />
+	<!-- 网站图标设置 -->
+	<link rel="shortcut icon" href="favicon.ico" />
+	<!-- css -->
+	<link rel="stylesheet" type="text/css" href="/Tp_group/Public/Css/default.css" />
+	<link rel="stylesheet" type="text/css" href="/Tp_group/Public/Css/font-awesome.min.css" />
+	<link rel="stylesheet" type="text/css" href="/Tp_group/Public/Css/Head.css" />
+	<link rel="stylesheet" type="text/css" href="/Tp_group/Public/Css/Home-Index.css" />	
+</head>
+<body>
+	<!-- 导航开始 --><!-- tolerance 向上一下滚动x距离就显示头部 -->
+	<!-- offset 线下滚动超过一定距离开始显示效果 --><!-- data属性为headroom的设置值 -->
+	<div id="nav" data-headroom data-tolerance="5" data-offset="100">
+		<div class="inner-nav">
+		<p>这是头部</p>
+		<!-- 搜索 -->
+		<form action="/Tp_group/Home/Search/index" method="get">
+			<input  type="text" name="k" placeholder="搜索"/>
+			<input  type="submit"/>
+		</form>
+		<!-- 登录按钮 -->
+		<a href="/Tp_group/Home/Login/index">登录</a>/注册(未开发)
+				</div>
+		<!-- 搜索结束 -->
+		<div id="nav-js">
+		<div class="inner-nav">
+		<!-- 父级nav开始 -->
+		<ul class="main-nav clearfix">
+			<!-- 固定的首页链接 -->
+			<li class="main-li" ><a href="/Tp_group" class="main-li-a">首页</a></li>
+		<!-- 自定义nav循环标签 order 排序方式 -->
+					<li class="main-li" data-channel="20"><!-- 循环得到的li项 -->
+				<a href="/Tp_group/l/20" class="main-li-a">动漫资讯					<div class="tail"></div>
+				</a><!-- 父级名称 -->
+			</li><li class="main-li" data-channel="22"><!-- 循环得到的li项 -->
+				<a href="/Tp_group/l/22" class="main-li-a">Comic					<div class="tail"></div>
+				</a><!-- 父级名称 -->
+			</li>		<!-- 循环结束 -->
+		</ul>
+		</div><!-- nav内层结束 -->
+		<!-- 父级nav结束 -->
+		<!-- 填充sub的子层 -->
+		<div class="sub-guide">
+			<div class="nav-bg"></div>
+			<!-- 循环开始 -->
+						<!-- 如果child子项存在值 -->
+				<ul class="sub-nav clearfix" data-id="20"><!-- 子项名称 -->
+					<li class><a href="/Tp_group/l/23">子分类1</a></li><li class><a href="/Tp_group/l/24">子分类2</a></li>				</ul><!-- 如果child子项存在值 -->
+				<ul class="sub-nav clearfix" data-id="22"><!-- 子项名称 -->
+					<li class><a href="/Tp_group/l/25">字字字在1</a></li><li class><a href="/Tp_group/l/26">字字字I帧子2</a></li>				</ul>			<!-- 启用了url路由模式 U生成 /l/+数字的形式地址 --><!-- 循环结束 -->
+		</div>
+		<!-- sub子层结束 -->
+		</div>
+	</div>
+	<!-- 导航结束 -->
+<!-- 代码高亮插件 -->
+<link rel="stylesheet" type="text/css" href="/Tp_group/App/Modules/Admin/Tpl/Public/kindeditor/plugins/code/prettify.css" />
+<script type="text/javascript" src="/Tp_group/App/Modules/Admin/Tpl/Public/kindeditor/plugins/code/prettify.js"></script>
+<div class="container">
+	<a href="">首页</a>
+			
+		<div>
+			<p class="wen-tit">命运守护夜 2014/Fate/stay night 201</p>
+			<p>主页>文章 发布于<span>2014年11月29日 16时28分</span> /<span>已被阅读<script type="text/javascript" src="/Tp_group/Home/Show/click/id/12"></script>次</span>评论：380  收藏：67 / 举报文章
+			</p>
+		</div>
+
+		<div><p style="text-indent:2em;">
+	<strong><span style="color:#E53333;">【内容介绍】</span></strong>
+</p>
+<p style="text-indent:2em;">
+	圣杯是传说中可实现持有者一切愿望的宝物。而为了得到圣杯的仪式就被称为圣杯战争。参加圣杯战争的<span>7</span>名由圣杯选出的魔术师被称为<span>Master</span>，与<span>7</span>名被称为<span>Servant</span>的使魔订定契约。他们是由圣杯选择的七位英灵，被分为七个职阶，以使魔的身份被召唤出来。能获得圣杯的只有一组，这<span>7</span>组人马各自为了成为最后的那一组而互相残杀。<span class="apple-converted-space">&nbsp;</span>
+</p>
+<p style="text-indent:2em;">
+	<!--[if !supportLineBreakNewLine]--><br />
+<!--[endif]-->
+</p></div>
+</div>
+<script type="text/javascript">
+	prettyPrint();
+</script>
+<!-- 底部文件模板 -->
+<footer>
+	<div class="nav-bg"></div>
+	<div class="foot-inner">
+	<div class="foot-main clearfix">
+		<div class="foot-logo l">
+			<img src="#" class="round-logo"/>
+			<a class="logo-tit" href="#">XXX网</a>
+		</div>
+		<div class="logo-warn l">
+		<p>本站不提供视频上传</p>
+		<p>本站收录的所有内容均来自网上搜集分享，其版权均归原作者及其网站所有</p>
+		<p>Copyright 2014 © XXX 保留所有权利</p>
+		</div>
+		<div class="foot-s r">
+		<h3>关于XXX网</h3>
+		<a href="#">常见问题</a>
+		<a href="#">联系我们</a>
+		</div>
+		<div class="foot-s r">
+		<h3>加入我们</h3>
+		<a href="#">腾讯微博</a>
+		<a href="#">新浪微博</a>
+		</div>
+		<div class="foot-s r">
+		<h3>其他</h3>
+		<a href="#">BUG反馈</a>
+		<a href="#">全站使用说明</a>
+		</div>
+		<div class="foot-s r">
+		<h3>友情链接</h3>
+		<a href="#">XXX网</a>
+		<a href="#">XXX网</a>
+		</div>
+	</div>
+	</div>
+</footer>
+</body>
+<!-- jquery -->
+<script type="text/javascript" src="/Tp_group/Public/Js/jquery.js"></script>
+<!-- <script type="text/javascript" src="/Tp_group/Public/lazyload/jquery.lazyload.min.js?v=1.9.1"></script> -->
+<script type="text/javascript" src="/Tp_group/Public/Js/jquery.color.js"></script>
+<!-- headroom插件 -->
+<script type="text/javascript" src="/Tp_group/Public/Js/headroom.js"></script>
+<script type="text/javascript" src="/Tp_group/Public/Js/Home-index.js"></script>
+</html>

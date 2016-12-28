@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+#开启重写引擎
+RewriteEngine on
+#如果请求的不是一个文件
+RewriteCond %{REQUEST_FILENAME} !-f
+#如果请求的不是一个目录
+RewriteCond %{REQUEST_FILENAME} !-d
+#重写规则
+RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+</IfModule>

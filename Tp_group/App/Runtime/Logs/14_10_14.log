@@ -1,0 +1,1561 @@
+[ 2014-10-14T11:37:53+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.026001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.026001s ]
+
+[ 2014-10-14T11:37:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T11:37:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T11:38:06+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T11:38:06+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:39:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T11:39:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:39:14+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T11:40:05+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T11:40:18+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T11:43:56+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T11:47:00+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:47:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T11:47:10+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:47:14+08:00 ] 0.0.0.0 /Tp_group/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:47:15+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:47:39+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:47:43+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:49:14+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T11:59:46+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T11:59:47+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:00:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:00:05+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T12:00:09+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T12:02:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T12:02:42+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:02:52+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:02:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:03:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:03:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:04:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:04:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:04:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:04:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:05:06+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T12:05:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:07:14+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:15:50+08:00 ] 0.0.0.0 /Tp_group/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:15:52+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:15:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:39:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:39:05+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:39:20+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:43:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:43:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:43:21+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:43:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:43:51+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T12:43:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:46:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T12:46:38+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T12:46:42+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-10-14T12:49:56+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:49:57+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T12:50:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:53:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T12:56:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-14T12:56:23+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T12:56:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:00:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:00:48+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:00:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:04:52+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:04:53+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:04:56+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:05:25+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:05:27+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:05:27+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:05:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:10:09+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:10:10+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:10:20+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:10:36+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:10:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T13:10:52+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:10:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T13:11:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T13:11:30+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.010001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:11:34+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:11:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T13:11:51+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:11:55+08:00 ] 0.0.0.0 /Tp_group/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T13:11:57+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:11:57+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:12:00+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:12:09+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-14T13:12:10+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.007001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.008001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:12:12+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T13:12:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T13:12:59+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:13:05+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:13:05+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:13:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T13:13:12+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.04996065911836922
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:13:12+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.9807432959787548
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:13:12+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.14275599410757422
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:13:32+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:13:32+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:13:35+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T13:13:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.2876296436879784
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:13:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.8519960716366768
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:13:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.4888241908047348
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:13:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:13:58+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:14:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:16:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:16:42+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:16:44+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T13:16:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.4187325246166438
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:16:47+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.6446771915070713
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:16:47+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/undefined?random=0.14569351566024125
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+ERR: 非法操作:undefined
+
+[ 2014-10-14T13:17:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:17:01+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T13:17:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:18:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T13:18:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T13:18:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:00:56+08:00 ] 0.0.0.0 /Tp_group/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.027001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.103006s ]
+
+[ 2014-10-14T18:00:56+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-10-14T18:00:57+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002001s ]
+
+[ 2014-10-14T18:01:04+08:00 ] 0.0.0.0 /Tp_group/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:01:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:01:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:01:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T18:01:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:01:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T18:01:23+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413280883022
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:01:24+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413280883022
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:01:24+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413280883022
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:02:11+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-14T18:02:11+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413280931232
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:02:11+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413280931232
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:02:11+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413280931232
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:02:40+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:03:21+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:03:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:03:22+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:03:23+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413281002936
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:03:23+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413281002936
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:03:23+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/__PUBLIC__/Js/uploadify-v3.1/uploadify.swf?preventswfcaching=1413281002936
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2014-10-14T18:05:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-14T18:05:23+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:05:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:05:38+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:06:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-14T18:08:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:09:06+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:15:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:15:41+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:15:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:16:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:16:33+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:16:37+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:19:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:19:34+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:20:16+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:20:16+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T18:25:07+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-10-14T18:25:10+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-10-14T18:25:16+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-14T18:26:24+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+NOTIC: 建议使用I方法替代_post
+ERR: 不存在的图像文件：./Uploads/avatar/avatar201410
+
+[ 2014-10-14T18:27:07+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:27:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:28:14+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:28:26+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:28:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-10-14T18:28:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:30:32+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+NOTIC: 建议使用I方法替代_post
+ERR: 不存在的图像文件：/Tp_group/Uploads/avatar/201410/543cfa06ca177.jpg
+
+[ 2014-10-14T18:31:39+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/inswz
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+ERR: 非法操作:inswz
+
+[ 2014-10-14T18:31:42+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T18:31:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-14T18:31:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_post
+ERR: 不存在的图像文件：/Tp_group/Uploads/avatar/201410/543cfb929062b.jpg
+
+[ 2014-10-14T18:40:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:45:25+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+NOTIC: 建议使用I方法替代_post
+ERR: 不存在的图像文件
+
+[ 2014-10-14T18:46:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:49:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+ERR: 不存在的图像文件
+
+[ 2014-10-14T18:50:58+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:51:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:52:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:52:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T18:52:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-14T18:52:34+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:52:35+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T18:58:24+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-10-14T18:58:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T18:58:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:19:32+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.007001s ]
+
+[ 2014-10-14T19:19:38+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T19:22:57+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-10-14T19:23:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-10-14T19:23:21+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T19:23:32+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:23:34+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:23:34+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:23:34+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T19:23:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T19:23:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-14T19:23:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T19:24:24+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:24:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005001s ]
+
+[ 2014-10-14T19:24:51+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:25:16+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-10-14T19:25:17+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:25:20+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T19:25:23+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T19:25:24+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:25:25+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:29:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:29:51+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:30:14+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T19:30:14+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.017001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.017001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:32:17+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T19:32:18+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:33:56+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:33:57+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:34:12+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:34:12+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:34:27+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:36:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T19:36:41+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:37:20+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T19:37:20+08:00 ] 0.0.0.0 /Tp_group/App/Modules/Admin/Tpl/Public/Js/jquery-1.10.2.min.map
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:App
+
+[ 2014-10-14T19:37:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.005000s ]
+
+[ 2014-10-14T19:37:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T19:37:46+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:46:45+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T19:46:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T19:46:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:51:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:52:30+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-10-14T19:52:37+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006000s ]
+
+[ 2014-10-14T19:53:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:53:13+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.005001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-10-14T19:53:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T19:53:21+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:58:25+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T19:59:44+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006001s ]
+
+[ 2014-10-14T19:59:45+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T20:00:17+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T20:00:19+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T20:00:24+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T20:00:32+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/cropImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+NOTIC: 建议使用I方法替代_post
+
+[ 2014-10-14T20:00:33+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T20:00:37+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T20:00:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T20:00:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T20:00:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T21:57:48+08:00 ] 0.0.0.0 /Tp_group/Admin/
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T21:57:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T21:57:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T21:58:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T21:58:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T21:58:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T21:58:10+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/uploadImg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T22:01:13+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T22:01:17+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:01:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002000s ]
+
+[ 2014-10-14T22:01:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:01:29+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T22:01:40+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:01:54+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:01:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:02:01+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:04:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-14T22:05:25+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:05:47+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:06:21+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:06:42+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004001s ]
+
+[ 2014-10-14T22:10:15+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:11:09+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:12:05+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:12:13+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T22:12:18+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:12:42+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:12:47+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:12:51+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T22:15:05+08:00 ] 0.0.0.0 /Tp_group/Admin/Rbac/node
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:28+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T22:16:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:31+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T22:16:42+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.9570677145384252
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:47+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.4534836041275412
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.6329259912017733
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002001s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003001s ]
+
+[ 2014-10-14T22:16:49+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.46102615538984537
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.28153319540433586
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:50+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.42862535640597343
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004000s ]
+
+[ 2014-10-14T22:16:53+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:16:55+08:00 ] 0.0.0.0 /Tp_group/Admin/Member/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:17:25+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:17:27+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:17:27+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+
+[ 2014-10-14T22:17:27+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003000s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003000s ]
+

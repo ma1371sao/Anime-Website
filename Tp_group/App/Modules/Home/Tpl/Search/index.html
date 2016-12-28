@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>搜索</title>
+	<style>
+	img{
+		border-radius: 30px;
+	}
+	</style>
+</head>
+<body>
+	<foreach name="user" item="u">
+	{$u.uname}
+	<img src="{$u.pic}" width="60px" height="60px"/>
+	</foreach>
+	{$k}
+	{$page}
+</body>
+</html>

@@ -1,0 +1,38 @@
+<html>
+<head>
+	<meta charset="utf8"/>
+	<title>动漫类别列表</title>
+</head>
+<body>
+	<a href="{:U(GROUP_NAME.'/Tag/addTag')}">继续添加</a>
+	<form action="{:U(GROUP_NAME.'/Tag/sortTag')}" method="post">
+	<table>
+		<tr>
+			<th>ID</th>
+			<th>名称</th>
+			<th>级别</th>
+			<th>排序</th>
+			<th>操作</th>
+		</tr>
+		<foreach name="tag" item="v">
+			<tr>
+				<td>{$v.id}</td>
+				<td>{$v.html}{$v.name}</td>
+				<td>{$v.level}</td>
+				<td><input type="text" name="{$v.id}" value="{$v.sort}"/></td>
+				<td>
+					[<a href="{:U(GROUP_NAME.'/Tag/addTag',array('pid' => $v['id']))}">添加子分类</a>]
+					[<a href="{:U(GROUP_NAME.'/Tag/edit'  ,array('id'  => $v['id']))}">修改</a>]
+					[<a href="{:U(GROUP_NAME.'/Tag/delTag',array('id'  => $v['id']))}">删除</a>]
+				</td>
+			</tr>
+		</foreach>
+		<tr>
+			<td colspan="5">
+				<input type="submit" value="排序"/>
+			</td>	
+		</tr>
+	</table>
+</form>
+</body>
+</html>

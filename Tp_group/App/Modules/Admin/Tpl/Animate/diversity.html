@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>添加分集</title>
+</head>
+<body>
+	<form action="{:U(GROUP_NAME.'/Animate/addDiver')}" method="post">
+		合集名称:	序号{$id} 名称{$name}<br/>
+		分集序号:	<input type="text" name="order" value=""/><br/>
+		分集sid:	<input type="text" name="sid" 	value=""/><br/>
+		分集名称:	<input type="text" name="title" value=""/><br/>
+		分集封面图:	<input type="file" name="pic" 	value=""/><br/>
+		分集时长:	<input type="text" name="time" 	value=""/><br/>
+		点击次数:	<input type="text" name="click" value="0"/><br/>
+		分集类型: 	<select name="type">
+			  		<option value ="youku">优酷</option>
+			  		<option value ="tudou">土豆</option>
+			  		<option value ="tecent">腾讯</option>
+			  		<option value ="aiqiyi">爱奇艺</option>
+					</select><br/>
+		<input type="hidden" name="id" value="{$id}">
+		<input type="submit" value="提交"/>
+	</form>
+</body>
+</html>

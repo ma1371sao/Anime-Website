@@ -1,0 +1,206 @@
+﻿<include file="Common:h"/>
+<css file="__PUBLIC__/kindeditor/themes/default/default.css" />
+<css file="__PUBLIC__/kindeditor/themes/simple/simple.css" />
+<style>
+.video-main{
+    display: block;
+    width:854px;
+    height:520px;
+}
+.vlist{
+    display: block;
+    width:296px;
+    background: #303030;
+    
+    font: normal 12px/20px 'MicroSoft YaHei';
+}
+.video-control{
+    width: 100%;
+    height:470px;
+    padding-top: 10px;
+    overflow-y: scroll;
+}
+.video-list{
+    height:40px;
+    padding: 5px 10px;
+    color: #bbb;
+    background: #444;
+    margin: 2px 0px;
+    cursor: pointer;
+}
+.video-list:hover{
+    background: #555;
+}
+.vlist-head{
+    color: #bbb;
+    background: #000;
+}
+.vlist-head span{
+    display: inline-block;
+    padding: 5px 40px;
+    font: normal 20px/30px "MicroSoft YaHei";
+    background: #303030;
+}
+.v-tit{
+    margin: 20px 0px 10px 0px ;
+}
+.comment-tit{
+    font: normal 12px/30px "MicroSoft YaHei";
+    border-left: 4px solid #3b8dbd;
+}
+.comment-tit h3{
+    display: inline-block;
+    padding-left: 10px;
+    font: normal 18px/30px "MicroSoft YaHei";
+}
+#content{
+    margin: 20px 0px 0px 0px;
+    width:800px;
+}
+#content .user-img{
+    border: 1px solid #ddd;
+    margin: 2px 0px 20px 0px;
+}
+#content .pin-body{
+    border-bottom: 1px dashed #ccc;
+    margin:5px 0px;
+}
+#content .pin-side{
+    width:730px;
+}
+#content .pin-con{
+    font:normal 14px/24px "MicroSoft YaHei";
+}
+#content .pin-user{
+    display: inline-block;
+    font:normal 12px/24px "MicroSoft YaHei";
+    background: #87cefa;
+    color:#fff;
+    padding:0px 5px ;
+}
+#content .pin-user span{
+    margin-right:20px ;
+}
+.v-ad{
+    width: 100%;
+    margin: 20px 0px;
+}
+.comment-sub{
+    width: 700px;
+    display: block;
+    padding: 2px 5px;
+    text-align: center;
+    border: none;
+    border-radius: 2px;
+    font: normal 12px/30px "MicroSoft YaHei";
+    background: #87cefa;
+    color: #fff;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+</style>
+<!-- 填充容器 -->
+<div class="container">
+    <div class="clearfix">
+    <!-- 标题头 -->
+    <div class="v-tit">
+        <p class="wen-tit">{$fname.name}:第{$cid.order}话{$cid.title}</p>
+        <p class="wen-s-tit"><span>主页>视频 </span> <span>发布于2014年 11月30日(星期日) 19时54分</span> / <span>评论：84  收藏：86 / 举报视频</span></p>
+    </div>
+	<div id="containers" class="video-main l"></div>
+    <!-- 剧集列表 -->
+    <div id="Vlist" class="vlist r">
+        <div id="cvideo" data-sid="{$cid.sid}" class="vlist-head"><span>选集</span></div>
+        <ul class="video-control">
+        <foreach name="svideo" item="s">
+            <li class="video-list" data-sid="{$s.sid}">第{$s.order}话 {$s.title}</li>
+        </foreach>
+        </ul>
+    </div>
+    </div>
+    <!-- 剧集列表结束 -->
+    <div><img src="__ROOT__/Uploads/ad/ad8.jpg" class="v-ad"></div>
+    <!-- ajax分页填充区 -->
+    <div id="content">
+        <div class="comment-tit"><h3>评论列表</h3><span class="sub-tit-l">Comment</span></div>
+        <include file="ajaxCL"/><!--分页模板-->
+    </div>
+    <!-- ajax分页结束 -->
+
+    <!-- 表单体检 -->
+    <div id="comment">
+        <!-- <form action="{:U(GROUP_NAME.'/Play/addComment')}" method="post"> -->
+            <textarea id="pin" name="content"></textarea>
+            
+            <button id="sub" class="comment-sub"/>提交</button>
+            <div id="text"></div>
+        <!-- </form> -->
+    </div>
+    <!-- 表单提交结束 -->
+</div>
+<include file="Common:f"/>
+<js file="__PUBLIC__/kindeditor/kindeditor.js"/>
+<js file="__PUBLIC__/kindeditor/lang/zh_CN.js"/>
+
+    
+
+<script type="text/javascript">
+    $(document).ready(function(){
+
+    KindEditor.ready(function(K) {
+        K.create('#pin', {
+            themeType : 'simple',
+            width : '700px',
+            height: '250px',
+        });
+    });
+
+    // 预加载
+    $("#containers").append("<embed "+
+            "src=\"http://player.youku.com/player.php/sid/"+$('#cvideo').attr('data-sid')+"/v.swf"+
+            "quality=\"high\" width=\"854\" height=\"520\" "+
+            "align=\"middle\" allowScriptAccess=\"sameDomain\" "+ 
+            "allowFullscreen=\"true\" "+
+            "type=\"application/x-shockwave-flash\"</embed>"
+        );
+    //用于播放视频的函数
+    $('.video-list').click(function(){
+        // 清除内容
+        $('#containers').empty();
+        // 填充sid
+        var sid = $(this).attr('data-sid');
+        $("#containers").append("<embed "+
+            "src=\"http://player.youku.com/player.php/sid/"+sid+"/v.swf"+
+            "quality=\"high\" width=\"854\" height=\"520\" "+
+            "align=\"middle\" allowScriptAccess=\"sameDomain\" "+ 
+            "allowFullscreen=\"true\" "+
+            "type=\"application/x-shockwave-flash\"</embed>"
+        );
+    });
+        
+    /**
+     * 异步评论
+     * 我怎么也搞不懂为什么post就不行 最后我笑了 index主入口有其他输出
+     */
+    $('#sub').click(function(){
+        var content =$('textarea[name=content]').val(); 
+        // ajax
+        $.ajax({
+            url:'addComment',
+            type:'POST',
+            data:{"id":1,"content":content},
+            dataType:'json',
+            success:function (data){
+            if(data['status']==1){
+                // 填充
+                var obj = data['data'];
+                var content= obj['content'];
+                $("#text").append(content);
+            }else{
+                alert(data['info']);
+            }}
+            })
+    });
+    });
+</script>

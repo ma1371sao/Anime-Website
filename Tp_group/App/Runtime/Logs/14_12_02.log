@@ -1,0 +1,228 @@
+[ 2014-12-02T18:56:24+08:00 ] 0.0.0.0 /Tp_group/
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2014-12-02T18:57:12+08:00 ] 0.0.0.0 /Tp_group/
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2014-12-02T18:57:15+08:00 ] 0.0.0.0 /Tp_group/
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2014-12-02T18:57:19+08:00 ] 0.0.0.0 /Tp_group/
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2014-12-02T19:01:50+08:00 ] 127.0.0.1 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.040530s ]
+INFO: [ route_check ] --END-- [ RunTime:0.040688s ]
+
+[ 2014-12-02T19:01:51+08:00 ] 127.0.0.1 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001053s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001212s ]
+
+[ 2014-12-02T19:01:51+08:00 ] 127.0.0.1 /Tp_group/Home/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001105s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001212s ]
+
+[ 2014-12-02T19:02:04+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000802s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000912s ]
+
+[ 2014-12-02T19:02:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000744s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000881s ]
+
+[ 2014-12-02T19:02:04+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000937s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001058s ]
+
+[ 2014-12-02T19:02:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001016s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001129s ]
+
+[ 2014-12-02T19:02:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001383s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001549s ]
+
+[ 2014-12-02T19:02:28+08:00 ] 0.0.0.0 /Tp_group/Admin/Blog/addBlog
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000928s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001046s ]
+
+[ 2014-12-02T19:08:21+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.173371s ]
+INFO: [ route_check ] --END-- [ RunTime:0.173499s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-02T19:08:46+08:00 ] 0.0.0.0 /Tp_group/Home/Login/logout
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.011613s ]
+INFO: [ route_check ] --END-- [ RunTime:0.011745s ]
+
+[ 2014-12-02T19:08:46+08:00 ] 0.0.0.0 /Tp_group/Home/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001382s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001497s ]
+
+[ 2014-12-02T19:08:46+08:00 ] 0.0.0.0 /Tp_group/Home/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002359s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002551s ]
+
+[ 2014-12-02T19:08:46+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001452s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001628s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-02T19:08:55+08:00 ] 0.0.0.0 /Tp_group/Home/Index/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000950s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001119s ]
+ERR: 非法操作:admin
+
+[ 2014-12-02T19:08:58+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001374s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001592s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-02T19:09:03+08:00 ] 0.0.0.0 /Tp_group/Home/Index/index/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000799s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000908s ]
+
+[ 2014-12-02T19:09:03+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001481s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001685s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-02T19:09:03+08:00 ] 0.0.0.0 /Tp_group/Home/Index/index/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002549s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002729s ]
+
+[ 2014-12-02T19:09:08+08:00 ] 0.0.0.0 /Tp_group/Home/Index/index/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002333s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002484s ]
+
+[ 2014-12-02T19:09:08+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002185s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002368s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-02T19:09:08+08:00 ] 0.0.0.0 /Tp_group/Home/Index/index/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001741s ]
+
+[ 2014-12-02T19:09:18+08:00 ] 0.0.0.0 /Tp_group/Home/Index/root
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001214s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001340s ]
+ERR: 非法操作:root
+
+[ 2014-12-02T19:11:50+08:00 ] 0.0.0.0 /Tp_group/Home/Index/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001101s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001228s ]
+ERR: 非法操作:admin
+
+[ 2014-12-02T19:19:06+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001494s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001671s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-02T19:19:13+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001067s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001177s ]
+
+[ 2014-12-02T19:19:14+08:00 ] 0.0.0.0 /Tp_group/Home/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002199s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002358s ]
+
+[ 2014-12-02T19:19:14+08:00 ] 0.0.0.0 /Tp_group/Home/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001608s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001802s ]
+
+[ 2014-12-02T19:19:19+08:00 ] 0.0.0.0 /Tp_group/Home/Login/admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000808s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000929s ]
+ERR: 非法操作:admin
+
+[ 2014-12-02T19:19:46+08:00 ] 0.0.0.0 /Tp_group/Home/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001078s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001199s ]
+
+[ 2014-12-02T19:21:54+08:00 ] 0.0.0.0 /Tp_group/Thumb/150x100/201410/5442493ca5efc.jpeg
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001568s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001771s ]
+ERR: 无法加载模块:Thumb
+
+[ 2014-12-02T19:31:00+08:00 ] 0.0.0.0 /Tp_group/Admin
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000947s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001059s ]
+
+[ 2014-12-02T19:31:00+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000798s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000908s ]
+
+[ 2014-12-02T19:31:00+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001298s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001476s ]
+
+[ 2014-12-02T19:31:36+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.006237s ]
+INFO: [ route_check ] --END-- [ RunTime:0.006464s ]
+
+[ 2014-12-02T19:31:41+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002249s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002454s ]
+
+[ 2014-12-02T19:31:48+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000885s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001004s ]
+
+[ 2014-12-02T19:32:02+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/imagecode/0.2893181121908128
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001966s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002243s ]
+
+[ 2014-12-02T19:32:08+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001630s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001748s ]
+
+[ 2014-12-02T19:32:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Login/login
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001559s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003766s ]
+
+[ 2014-12-02T19:32:22+08:00 ] 0.0.0.0 /Tp_group/Admin/Index/index
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000791s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000901s ]
+

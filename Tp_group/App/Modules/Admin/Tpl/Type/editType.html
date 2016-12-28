@@ -1,0 +1,29 @@
+<html>
+<head>
+	<meta charset="utf8"/>
+	<title>修改动漫类别</title>
+</head>
+<body>
+	<form action="{:U(GROUP_NAME.'/Type/handelEdit')}" method="post">
+	<table>
+		<tr>
+			<th colspan="2">修改动漫类别</th>
+		</tr>
+		<tr>
+			<td>类别名称</td>
+			<td><input type="text" name="name" value="{$info.name}"/></td>	
+		</tr>
+		<tr>
+			<td>类别排序</td>
+			<td><input type="text" name="sort" value="{$info.sort}"/></td>	
+		</tr>
+		<tr>
+			<td>
+				<input type="hidden" name="id" value="{$info.id}"/>
+				<input type="submit" value="修改"/>
+			</td>	
+		</tr>
+	</table>
+</form>
+</body>
+</html>

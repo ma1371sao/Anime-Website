@@ -1,0 +1,80 @@
+<html>
+<head>
+	<meta charset="utf8"/>
+	<title>添加博文</title>
+	<css file="__PUBLIC__/kindeditor/themes/default/default.css" />
+	<css file="__PUBLIC__/kindeditor/plugins/code/prettify.css" />
+	<js  file="__PUBLIC__/kindeditor/plugins/code/prettify.js"/>
+</head>
+<body>
+	<form action="{:U(GROUP_NAME.'/Blog/handelAddBlog')}" method="post" enctype="multipart/form-data">
+	<table>
+		<tr>
+			<th colspan="2">博文发布</th>
+		</tr>
+		<tr>
+			<td>所属分类</td>
+			<td>
+				<select name="cid">
+					<option>分类列表</option>
+					<foreach name="cate" item="v">
+						<option value="{$v.id}">{$v.html}{$v.name}</option>
+					</foreach>
+				</select>
+			</td>	
+		</tr>
+		<tr>
+			<td>博文属性</td>
+			<td>
+				<foreach name="attr" item="v"> 
+					<label>
+						<input type="checkbox" name="aid[]" value="{$v.id}"/>{$v.name}
+					</label>
+				</foreach>
+			</td>	
+		</tr>
+		<tr>
+			<td>博文标题</td>
+			<td><input type="text" name="title" /></td>	
+		</tr>
+		<tr>
+			<td>博文摘要</td>
+			<td><input type="text" name="summary" /></td>	
+		</tr>
+		<tr>
+			<td>博文封面</td>
+			<td><input type="file" name="pic"/></td>
+		</tr>
+		<tr>
+			<td>点击次数</td>
+			<td><input type="text" name="click" value="5"/></td>	
+		</tr>
+		<tr>
+			<td colspan="2">
+				<textarea name="content" id="content"></textarea>
+			</td>	
+		</tr>
+		<tr>
+			<td><input type="submit" value="保存添加" /></td>	
+		</tr>
+	</table>
+</form>
+</body>
+	<js file="__PUBLIC__/kindeditor/kindeditor.js"/>
+	<js file="__PUBLIC__/kindeditor/lang/zh_CN.js"/>
+
+	
+<!-- 初始化插件 -->
+<script>
+	KindEditor.ready(function(K) {
+		K.create('#content', {
+			width : '700px',
+			height: '350px',
+			uploadJson : "{:U(GROUP_NAME.'/Blog/upload')}",
+			cssPath :['__PUBLIC__/kindeditor/plugins/code/prettify.css']
+		});
+		// 代码高亮
+		prettyPrint();
+	});
+</script>
+</html>

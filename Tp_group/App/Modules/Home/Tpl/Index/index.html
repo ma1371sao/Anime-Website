@@ -1,0 +1,22 @@
+<include file="Common:h" />
+<include file="Common:G" />
+<!-- 引入头部公用模板文件 不需要加html 末尾要加/ -->
+	<div class="container">
+		<!-- 首页ppt -->
+		{:W('Ppt',array('limit' => 6))}
+		<!-- tag 小工具 已废除-->
+		<!-- <div>
+			<img src="__PUBLIC__/Image/headform.jpg" style="width:100%;height:100px" />
+		</div> -->
+		<!-- 第一部分 -->
+		<include file="area#b"/>
+		
+		<include file="area#c"/>
+	<!-- 第二部分 -->
+		<include file="area#a"/>
+
+	<!-- 调用new工具 -->
+	{//{:W('New',array('limit' => 5))}
+	</div>
+<!-- 引入底部公用模板文件 -->
+<include file="Common:f"/>

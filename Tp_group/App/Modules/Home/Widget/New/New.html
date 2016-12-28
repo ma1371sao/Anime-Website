@@ -1,0 +1,16 @@
+<style type="text/css">
+.green-back{
+	background: #82b965;
+}
+</style>
+<!-- new 最新博客工具 -->
+<div class="side-head green-back">
+	<h3>文章列表</h3>
+</div>
+<ul class="side-p">
+<foreach name="news" item="v">
+<li class="p-list">
+	<a href="{:U('/'.$v['id'])}" target="_blank" class="p-li">{$v.title}</a>
+</li>
+</foreach>
+</ul>

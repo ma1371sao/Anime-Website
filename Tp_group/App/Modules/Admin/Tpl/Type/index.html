@@ -1,0 +1,35 @@
+<html>
+<head>
+	<meta charset="utf8"/>
+	<title>动漫类别列表</title>
+</head>
+<body>
+	<a href="{:U(GROUP_NAME.'/Type/addType')}">继续添加</a>
+	<form action="{:U(GROUP_NAME.'/Type/sortType')}" method="post">
+	<table>
+		<tr>
+			<th>ID</th>
+			<th>名称</th>
+			<th>排序</th>
+			<th>操作</th>
+		</tr>
+		<foreach name="type" item="v">
+			<tr>
+				<td>{$v.id}</td>
+				<td>{$v.name}</td>
+				<td><input type="text" name="{$v.id}" value="{$v.sort}"/></td>
+				<td>
+					[<a href="{:U(GROUP_NAME.'/Type/editType',array('id' => $v['id']))}">修改</a>]
+					[<a href="{:U(GROUP_NAME.'/Type/delType',array('id' => $v['id']))}">删除</a>]
+				</td>
+			</tr>
+		</foreach>
+		<tr>
+			<td colspan="4">
+				<input type="submit" value="排序"/>
+			</td>	
+		</tr>
+	</table>
+</form>
+</body>
+</html>

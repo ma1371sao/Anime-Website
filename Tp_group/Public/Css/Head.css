@@ -1,0 +1,124 @@
+﻿/*首页nav*/
+#nav{
+	background: url("../Image/guide.png") center top repeat-y;
+}
+/*nav内层*/
+.inner-nav1{
+	position: relative;
+	width:1150px;
+	height:90px;
+	margin:0px auto;
+}
+.inner-nav2{
+	position: relative;
+	width:1150px;
+	margin:0px auto;
+}
+/*nav 滚动css*/
+.headroom {
+	position: absolute;
+	z-index: 100;
+	top: 0;left: 0;
+	right: 0;
+	transition: all .15s ease-in-out;
+}
+.headroom--unpinned {
+	position: fixed;top: -100px;
+}
+.headroom--pinned {
+	position:fixed;top: 0px;
+}
+/*nav主体块*/
+.main-nav{
+	position: relative;
+	display: block;
+	width:100%;
+	font-size: 14px;
+	font-family: Microsoft YaHei !important;
+}
+.main-li-a{
+	display: block;
+	position: relative;
+	height:38px;
+	line-height: 38px;
+	text-align: center;
+	color: #333;
+}
+/*头部css*/
+.main-li{
+	display: inline;
+	padding: 0 16px;
+	float: left;
+}
+/*二级菜单*/
+.sub-nav{
+	display: none;
+	height: 30px;
+	line-height: 30px;
+	position:absolute;
+	z-index: 100
+}
+.sub-nav li{
+	display: inline;
+	float: left;
+	font-size: 14px;
+	height: 30px;
+	line-height: 30px;
+}
+/*小尾巴*/
+.tail{
+	position: absolute;
+	display: none;
+	bottom: -3px;
+	z-index:2;
+	width:16px;
+	height:9px;
+	background:  url('../Image/tail.png') 0px 0px no-repeat;
+}
+/*子层*/
+.nav-bg{
+	width:100%;
+	height:2px;
+	/*background: #fff url("../Image/border.png") center top repeat-x;*/
+	background:#82b965;
+}
+.nav-h{
+	width:350px;
+	height:80px;
+	position:relative;
+	display:inline-block;
+	float:left
+}
+.nav-h img{
+	margin-left:-30px;
+	width:300px;
+	height:110px
+}
+#nav-js{
+	background: #fff;
+}
+/*子项css*/
+.sub-nav li a{
+	display:block;
+	text-align: center;
+	color: #333;
+	padding:0 4px;
+	margin-right: 12px;
+	height: 100%;
+	font-family: Microsoft YaHei;
+	
+	-webkit-transition: text-shadow .4s 0s ease-in-out;
+}
+.sub-nav li a:hover{
+	text-shadow:0 2px 25px #ff7f50;
+	border-bottom: 2px solid #ff7f50;
+}
+/*子菜单填充层*/
+.sub-guide{
+	position:relative;
+	width:100%;
+	height:2px;
+	display: block;
+	overflow: hidden;
+	background-color: #fff;box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+}

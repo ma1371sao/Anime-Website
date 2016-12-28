@@ -1,0 +1,57 @@
+<html>
+<head>
+	<meta charset="utf8"/>
+	<title>动漫列表</title>
+</head>
+<body>
+	<a href="{:U(GROUP_NAME.'/Animate/addAnimate')}">添加动漫</a>
+	<table>
+		<tr>
+			<th>ID</th>
+			<th>动漫名称</th>
+			<th>所属类别</th>
+			<th>动漫标签</th>
+			<th>动漫声优</th>
+			<th>出品公司</th>
+			<th>动漫简介</th>
+			<th>封面图</th>
+			<th>发布时间</th>
+			<th>点击次数</th>
+			<th>评分</th>
+			<th>评论数</th>
+			<th>状态</th>
+			<th style="width:30%">操作</th>
+		</tr>
+		<foreach name="animate" item="v">
+			<tr>
+				<td>{$v.id}</td>
+				<td>{$v.name}</td>
+				<td>{$v.type}</td>
+				<td style="width:50px;">
+					<foreach name="v.tag" item="value">
+						<small>[{$value.name}]</small>
+					</foreach>
+				</td>
+				<td>{$v.vactor}</td>
+				<td>{$v.company}</td>
+				<td style="width:20%">{$v.content|msubstr=###,0,30,'utf-8',true}</td>
+				<td><img src="{$v.pic}" width="120px" height="100px"/></td>
+				<td>{$v.time|date="y-m-d H:i",###}</td>
+				<td>{$v.click}</td>
+				<td>{$v.rate}</td>
+				<td>{$v.reply}</td>
+				<td>{$v.state}</td>
+				<td>
+					[<a href="{:U(GROUP_NAME.'/Animate/edit',array('id'=>$v['id']))}">修改</a>]
+					[<a href="">删除</a>]
+					[<a href="{:U(GROUP_NAME.'/Animate/addPpt',array('id'=>$v['id'],'name'=>$v['name']))}">添加幻灯片</a>]
+					[<a href="{:U(GROUP_NAME.'/Animate/diversity',array('id'=>$v['id'],'name'=>$v['name']))}">添加分集</a>]
+				</td>
+			</tr>
+		</foreach>
+		<tr>
+			<td colspan="14">{$page}</td>
+		</tr>
+	</table>
+</body>
+</html>

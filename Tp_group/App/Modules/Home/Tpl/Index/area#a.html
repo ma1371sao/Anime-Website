@@ -1,0 +1,163 @@
+﻿<!-- 第yi部分开始 -->
+<!-- 	<div class="clearfix">
+	<div class="warpper l">
+		<div class="tit">
+		<h3 class="">最近新番</h3><span class="sub-tit">New</span>
+		<a href="#" class=""><span class="">更多>></span></a>
+		</div>
+	<ul class="con clearfix">
+		
+	<foreach name="new" item="n">
+		<li class="l <if condition='$key eq 0'>first</if>">
+			<a href="#" class=""><img class="warpper-img <if condition='$key eq 0'>ss200<else/>ss150</if>" src="{$n.pic}"/></a>
+		<div class=>
+		<p><a href="#" class="p-title">{$n.name}</a></p>
+		<p class="p-info">{$n.content|msubstr=###,0,9,'utf-8',false}</p>{//字段不对，要再设一个}
+		</div>
+		</li>
+	</foreach>
+
+	</ul>
+	</div>
+	</div> -->
+<!-- 第yi部分结束 -->
+<style>
+.band-img{
+	display: block;
+}
+.band-desc{
+	width: 700px;
+}
+.arti-tit{
+	color: #333;
+	text-decoration: none;
+	font-size: 16px;
+	line-height: 18px;
+	font-weight: bold;
+	padding: 0 0 5px;
+	border-bottom: 1px dotted #CCC;
+	font-family: "Microsoft YaHei","Helvetica Neue",Helvetica,Arial;
+	transition: all .3s ease-out;
+	margin-bottom: 10px;
+}
+.arti-tit:hover{
+	color: #e32d40;
+}
+.arti-summ{
+text-indent:2em;
+	padding: 10px 0px;
+	color: #626773;
+	font-size: 13px;
+	line-height: 25px;
+	height:70px;
+	font-family: "Microsoft YaHei","Helvetica Neue",Helvetica,Arial;
+}
+.arti-more{
+	display: inline-block;
+	line-height: 1em;
+	padding: 6px 15px;
+	border-radius: 15px;
+	background: #eee;
+	color: #999;
+	text-shadow: 0 1px #fff;
+	font-size: 12px;
+	font-family: "Microsoft YaHei","Helvetica Neue",Helvetica,Arial;
+	transition: all .3s ease-out;
+}
+.arti-more:hover{
+	background:#e32d40; 
+	color: #fff;
+	text-shadow: none;
+}
+.arti-foot{
+	line-height: 1.6em;
+	font: normal 14px/1.6em "Microsoft Yahei";
+	border-top: 2px solid #ddd;
+	padding: 5px 0px;
+}
+.arti-f{
+	font-size: 12px;
+	color: #999;
+	margin:0px 10px;
+}
+#page{
+	margin-top:30px;
+	margin-bottom:5px;
+	margin-left:30px;
+}
+</style>
+<div id="area-a" class="area-fen clearfix">
+	<div class="topic l">
+		<div class="topic-tit">
+		<h3 class="">专题文章区</h3><span class="sub-tit-l">Txt</span>
+		</div>
+
+		<!-- 主题展示 -->
+		<ul class="topic-main l">
+			
+	<foreach name="new" item="n">
+		<ul class="topic-inner clearfix">
+			<li class="l band">
+			<a href="{:U('/'.$n['id'])}" class="l band-img"><img class="lazy warpper-img ss130" src="{$n.pic}"/></a>
+			<!-- 解释字段 -->
+			<div class="r band-desc">
+			<a href="{:U('/'.$n['id'])}" class="arti-tit">{$n.title}</a>
+			
+			<p class="arti-summ">{$n.summary|msubstr=###,0,155,'utf-8',true}</p>
+			<p class="arti-foot">
+			<span class="arti-f"><i class="fa fa-calendar"></i> 时间：{$n.time|date="Y-m-d",###}</span>
+			<span class="arti-f"><i class="fa fa-edit"></i> 点击：{$n.click}</span>
+			<a href="{:U('/'.$n['id'])}" class="arti-more r">更多</a>
+			</p>
+			</div>
+		</li>
+			
+		</ul>
+	</foreach>
+		<!-- <div class="topic-divder"><a href="javascript:;"><span>动漫专题</span></a></div> -->
+	<div id="page">{$page}</div>
+	</ul>
+	</div>
+
+	<!-- 侧边 -->
+	<!-- 调用hot工具 -->
+	{:W('Hot')}
+	<!-- <div class="side r">
+		<div class="side-head yellow-bottom g1"><h3>新番预告</h3>
+			<span class="side-sub">全部</span>
+			<span class="side-sub">当月</span>
+			<span class="side-sub">每周</span></div>
+		<ul class="rank-side">
+			<li><i class="number o1">1</i><a class="side-link">wenti1</a></li>
+			<li><i class="number o1">2</i><a class="side-link">wenti2</a></li>
+			<li><i class="number o1">3</i><a class="side-link">地球把百合子3123</a></li>
+			<li><i class="number">4</i><a class="side-link">地球把百合子3213</a></li>
+			<li><i class="number">5</i><a class="side-link">地球把百合子3213</a></li>
+			<li><i class="number">6</i><a class="side-link">地球把百合子3213</a></li>
+			<li><i class="number">7</i><a class="side-link">地球把百合子3213</a></li>
+		</ul>
+		<div class="side-tag">
+			<ul class="clearfix">
+				<li>CV标签</li>
+				<li>CV标签</li>
+				<li>CV标签</li>
+				<li>CV标签</li>
+				<li>CV标签</li>
+				<li>CV标签</li>
+			</ul>
+		</div>
+	</div> -->
+		<div class="side r">
+		<div class="side-yugao">
+			<div class="side-head green-back"><h3>即将上映</h3></div>
+			<ul class="ul-yugao">
+				<li>
+					<img src="__ROOT__/Uploads/ad/ad6.jpg" class="img-yugao"/>
+					<img src="__ROOT__/Uploads/ad/ad2.jpg" class="img-yugao"/>
+					<img src="__ROOT__/Uploads/ad/ad3.jpg" class="img-yugao"/>
+					<img src="__ROOT__/Uploads/ad/ad4.jpg" class="img-yugao"/>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
