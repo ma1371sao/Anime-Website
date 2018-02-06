@@ -1,2 +1,2 @@
 ﻿# web-development
-mainly with HTML5, JS, PHP, ThinkPHP, JQuery
+mainly using HTML5, JS, PHP, ThinkPHP, JQuery, AJAX
